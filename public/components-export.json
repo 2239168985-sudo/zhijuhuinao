@@ -1,0 +1,1484 @@
+{
+  "generatedFrom": "lib/component-library.ts",
+  "site": "https://2239168985-sudo.github.io/zhijuhuinao",
+  "count": 112,
+  "components": [
+    {
+      "id": "C03N2智能香薰氛围灯",
+      "code": "LIT-01",
+      "name": "C03-N2_智能香薰氛围灯",
+      "category": "照明灯具",
+      "space": "全屋",
+      "paramCount": 12,
+      "features": [
+        "场景联动",
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=C03-N2_%E6%99%BA%E8%83%BD%E9%A6%99%E8%96%B0%E6%B0%9B%E5%9B%B4%E7%81%AF"
+    },
+    {
+      "id": "小熊玩偶",
+      "code": "C03-1",
+      "name": "小熊玩偶",
+      "category": "装饰摆件",
+      "space": "客厅",
+      "paramCount": 4,
+      "features": [],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%B0%8F%E7%86%8A%E7%8E%A9%E5%81%B6"
+    },
+    {
+      "id": "茶杯",
+      "code": "C04-1",
+      "name": "茶杯",
+      "category": "装饰摆件",
+      "space": "客厅",
+      "paramCount": 4,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E8%8C%B6%E6%9D%AF"
+    },
+    {
+      "id": "小绿植",
+      "code": "C05-1",
+      "name": "小绿植",
+      "category": "装饰摆件",
+      "space": "客厅",
+      "paramCount": 4,
+      "features": [],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%B0%8F%E7%BB%BF%E6%A4%8D"
+    },
+    {
+      "id": "游戏机",
+      "code": "C05-2",
+      "name": "游戏机",
+      "category": "娱乐休闲",
+      "space": "客厅",
+      "paramCount": 4,
+      "features": [],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%B8%B8%E6%88%8F%E6%9C%BA"
+    },
+    {
+      "id": "C03N3现代坐姿猫咪玩",
+      "code": "C05-4",
+      "name": "C03-N3_现代坐姿猫咪玩偶",
+      "category": "装饰摆件",
+      "space": "全屋",
+      "paramCount": 7,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=C03-N3_%E7%8E%B0%E4%BB%A3%E5%9D%90%E5%A7%BF%E7%8C%AB%E5%92%AA%E7%8E%A9%E5%81%B6"
+    },
+    {
+      "id": "企鹅玩偶",
+      "code": "C05-5",
+      "name": "企鹅玩偶",
+      "category": "装饰摆件",
+      "space": "客厅",
+      "paramCount": 4,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E4%BC%81%E9%B9%85%E7%8E%A9%E5%81%B6"
+    },
+    {
+      "id": "现代别墅三跑楼梯",
+      "code": "STR-01",
+      "name": "现代别墅三跑楼梯",
+      "category": "楼梯结构",
+      "space": "全屋",
+      "paramCount": 23,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E7%8E%B0%E4%BB%A3%E5%88%AB%E5%A2%85%E4%B8%89%E8%B7%91%E6%A5%BC%E6%A2%AF"
+    },
+    {
+      "id": "厨房下悬窗",
+      "code": "DOF-01",
+      "name": "厨房下悬窗",
+      "category": "门窗幕墙",
+      "space": "厨房",
+      "paramCount": 23,
+      "features": [
+        "人体存在感知",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8E%A8%E6%88%BF%E4%B8%8B%E6%82%AC%E7%AA%97"
+    },
+    {
+      "id": "庭院丛生参数化竹子",
+      "code": "LND-01",
+      "name": "庭院丛生参数化竹子",
+      "category": "景观庭院",
+      "space": "庭院景观",
+      "paramCount": 9,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%BA%AD%E9%99%A2%E4%B8%9B%E7%94%9F%E5%8F%82%E6%95%B0%E5%8C%96%E7%AB%B9%E5%AD%90"
+    },
+    {
+      "id": "庭院中式现代小凉亭",
+      "code": "LND-02",
+      "name": "庭院中式现代小凉亭",
+      "category": "景观庭院",
+      "space": "庭院景观",
+      "paramCount": 12,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%BA%AD%E9%99%A2%E4%B8%AD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%B0%8F%E5%87%89%E4%BA%AD"
+    },
+    {
+      "id": "主卧智能中枢显示器",
+      "code": "C07",
+      "name": "主卧智能中枢显示器",
+      "category": "智能中枢",
+      "space": "主卧",
+      "paramCount": 59,
+      "features": [
+        "环境数据监测",
+        "场景联动",
+        "安防告警",
+        "人体存在感知",
+        "照明与色温调节",
+        "遮阳与通风",
+        "能源与储能管理",
+        "家政与晾衣",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E4%B8%BB%E5%8D%A7%E6%99%BA%E8%83%BD%E4%B8%AD%E6%9E%A2%E6%98%BE%E7%A4%BA%E5%99%A8"
+    },
+    {
+      "id": "书房智能中枢显示器",
+      "code": "C04",
+      "name": "书房智能中枢显示器",
+      "category": "智能中枢",
+      "space": "书房",
+      "paramCount": 27,
+      "features": [
+        "环境数据监测",
+        "照明与色温调节",
+        "遮阳与通风",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E4%B9%A6%E6%88%BF%E6%99%BA%E8%83%BD%E4%B8%AD%E6%9E%A2%E6%98%BE%E7%A4%BA%E5%99%A8"
+    },
+    {
+      "id": "智能书柜",
+      "code": "C30",
+      "name": "智能书柜",
+      "category": "家具软装",
+      "space": "书房",
+      "paramCount": 13,
+      "features": [
+        "场景联动",
+        "照明与色温调节"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E4%B9%A6%E6%9F%9C"
+    },
+    {
+      "id": "多功能人体工学座椅",
+      "code": "FUR-01",
+      "name": "多功能人体工学座椅",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 21,
+      "features": [
+        "环境数据监测",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%A4%9A%E5%8A%9F%E8%83%BD%E4%BA%BA%E4%BD%93%E5%B7%A5%E5%AD%A6%E5%BA%A7%E6%A4%85"
+    },
+    {
+      "id": "庭院假山流水池塘",
+      "code": "LND-03",
+      "name": "庭院假山流水池塘",
+      "category": "景观庭院",
+      "space": "庭院景观",
+      "paramCount": 12,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%BA%AD%E9%99%A2%E5%81%87%E5%B1%B1%E6%B5%81%E6%B0%B4%E6%B1%A0%E5%A1%98"
+    },
+    {
+      "id": "别墅家庭储能设备柜及能源",
+      "code": "E03",
+      "name": "别墅家庭储能设备柜及能源设备区",
+      "category": "能源设备",
+      "space": "能源区",
+      "paramCount": 29,
+      "features": [
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%88%AB%E5%A2%85%E5%AE%B6%E5%BA%AD%E5%82%A8%E8%83%BD%E8%AE%BE%E5%A4%87%E6%9F%9C%E5%8F%8A%E8%83%BD%E6%BA%90%E8%AE%BE%E5%A4%87%E5%8C%BA"
+    },
+    {
+      "id": "全景通风落地窗",
+      "code": "DOF-02",
+      "name": "全景通风落地窗",
+      "category": "门窗幕墙",
+      "space": "通用空间",
+      "paramCount": 25,
+      "features": [
+        "人体存在感知",
+        "遮阳与通风",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%85%A8%E6%99%AF%E9%80%9A%E9%A3%8E%E8%90%BD%E5%9C%B0%E7%AA%97"
+    },
+    {
+      "id": "六合一环境传感器",
+      "code": "SEN-01",
+      "name": "六合一环境传感器",
+      "category": "传感探测",
+      "space": "全屋",
+      "paramCount": 24,
+      "features": [
+        "环境数据监测",
+        "场景联动",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%85%AD%E5%90%88%E4%B8%80%E7%8E%AF%E5%A2%83%E4%BC%A0%E6%84%9F%E5%99%A8"
+    },
+    {
+      "id": "到顶厨房储物吊柜",
+      "code": "KIT-01",
+      "name": "到顶厨房储物吊柜",
+      "category": "厨卫设备",
+      "space": "厨房",
+      "paramCount": 15,
+      "features": [
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%88%B0%E9%A1%B6%E5%8E%A8%E6%88%BF%E5%82%A8%E7%89%A9%E5%90%8A%E6%9F%9C"
+    },
+    {
+      "id": "次卧小床纯家具版",
+      "code": "B02",
+      "name": "次卧小床纯家具版",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 12,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%AC%A1%E5%8D%A7%E5%B0%8F%E5%BA%8A%E7%BA%AF%E5%AE%B6%E5%85%B7%E7%89%88"
+    },
+    {
+      "id": "别墅庭院单车位光伏车库",
+      "code": "E01",
+      "name": "别墅庭院单车位光伏车库",
+      "category": "能源设备",
+      "space": "庭院景观",
+      "paramCount": 43,
+      "features": [
+        "照明与色温调节",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%88%AB%E5%A2%85%E5%BA%AD%E9%99%A2%E5%8D%95%E8%BD%A6%E4%BD%8D%E5%85%89%E4%BC%8F%E8%BD%A6%E5%BA%93"
+    },
+    {
+      "id": "主卧头顶吸顶灯V2",
+      "code": "C31",
+      "name": "主卧头顶吸顶灯 V2",
+      "category": "照明灯具",
+      "space": "主卧",
+      "paramCount": 11,
+      "features": [
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E4%B8%BB%E5%8D%A7%E5%A4%B4%E9%A1%B6%E5%90%B8%E9%A1%B6%E7%81%AF%20V2"
+    },
+    {
+      "id": "公共卫生间智能中枢",
+      "code": "C13",
+      "name": "公共卫生间智能中枢",
+      "category": "智能中枢",
+      "space": "卫生间",
+      "paramCount": 40,
+      "features": [
+        "环境数据监测",
+        "安防告警",
+        "照明与色温调节",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F%E9%97%B4%E6%99%BA%E8%83%BD%E4%B8%AD%E6%9E%A2"
+    },
+    {
+      "id": "厨房安全中枢显示器",
+      "code": "C10",
+      "name": "厨房安全中枢显示器",
+      "category": "智能中枢",
+      "space": "厨房",
+      "paramCount": 39,
+      "features": [
+        "环境数据监测",
+        "场景联动",
+        "安防告警",
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8E%A8%E6%88%BF%E5%AE%89%E5%85%A8%E4%B8%AD%E6%9E%A2%E6%98%BE%E7%A4%BA%E5%99%A8"
+    },
+    {
+      "id": "厨房智能灯具系统",
+      "code": "C32",
+      "name": "厨房智能灯具系统",
+      "category": "照明灯具",
+      "space": "厨房",
+      "paramCount": 26,
+      "features": [
+        "场景联动",
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8E%A8%E6%88%BF%E6%99%BA%E8%83%BD%E7%81%AF%E5%85%B7%E7%B3%BB%E7%BB%9F"
+    },
+    {
+      "id": "庭院参数化石拱桥",
+      "code": "LND-04",
+      "name": "庭院参数化石拱桥",
+      "category": "景观庭院",
+      "space": "庭院景观",
+      "paramCount": 15,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%BA%AD%E9%99%A2%E5%8F%82%E6%95%B0%E5%8C%96%E7%9F%B3%E6%8B%B1%E6%A1%A5"
+    },
+    {
+      "id": "双扇玻璃推拉门",
+      "code": "DOF-03",
+      "name": "双扇玻璃推拉门",
+      "category": "门窗幕墙",
+      "space": "通用空间",
+      "paramCount": 14,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8F%8C%E6%89%87%E7%8E%BB%E7%92%83%E6%8E%A8%E6%8B%89%E9%97%A8"
+    },
+    {
+      "id": "双机嵌入式洗烘储物柜",
+      "code": "FUR-02",
+      "name": "双机嵌入式洗烘储物柜",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 7,
+      "features": [],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8F%8C%E6%9C%BA%E5%B5%8C%E5%85%A5%E5%BC%8F%E6%B4%97%E7%83%98%E5%82%A8%E7%89%A9%E6%9F%9C"
+    },
+    {
+      "id": "可变圆形六至八人餐桌",
+      "code": "FUR-03",
+      "name": "可变圆形六至八人餐桌",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 14,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8F%AF%E5%8F%98%E5%9C%86%E5%BD%A2%E5%85%AD%E8%87%B3%E5%85%AB%E4%BA%BA%E9%A4%90%E6%A1%8C"
+    },
+    {
+      "id": "可调单双洞外墙",
+      "code": "DOF-04",
+      "name": "可调单双洞外墙",
+      "category": "门窗幕墙",
+      "space": "全屋",
+      "paramCount": 28,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8F%AF%E8%B0%83%E5%8D%95%E5%8F%8C%E6%B4%9E%E5%A4%96%E5%A2%99"
+    },
+    {
+      "id": "普通台式微波炉",
+      "code": "KIT-02",
+      "name": "普通台式微波炉",
+      "category": "厨卫设备",
+      "space": "全屋",
+      "paramCount": 23,
+      "features": [
+        "照明与色温调节",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%AE%E9%80%9A%E5%8F%B0%E5%BC%8F%E5%BE%AE%E6%B3%A2%E7%82%89"
+    },
+    {
+      "id": "阳台1660右固定玻璃折",
+      "code": "DOF-05",
+      "name": "阳台1660右固定玻璃折叠移门",
+      "category": "门窗幕墙",
+      "space": "家政/阳台",
+      "paramCount": 10,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E9%98%B3%E5%8F%B01660%E5%8F%B3%E5%9B%BA%E5%AE%9A%E7%8E%BB%E7%92%83%E6%8A%98%E5%8F%A0%E7%A7%BB%E9%97%A8"
+    },
+    {
+      "id": "阳台1300右固定玻璃折",
+      "code": "DOF-06",
+      "name": "阳台1300右固定玻璃折叠移门",
+      "category": "门窗幕墙",
+      "space": "家政/阳台",
+      "paramCount": 10,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E9%98%B3%E5%8F%B01300%E5%8F%B3%E5%9B%BA%E5%AE%9A%E7%8E%BB%E7%92%83%E6%8A%98%E5%8F%A0%E7%A7%BB%E9%97%A8"
+    },
+    {
+      "id": "卧室固定加平开窗",
+      "code": "DOF-07",
+      "name": "卧室固定加平开窗",
+      "category": "门窗幕墙",
+      "space": "通用空间",
+      "paramCount": 26,
+      "features": [
+        "人体存在感知",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8D%A7%E5%AE%A4%E5%9B%BA%E5%AE%9A%E5%8A%A0%E5%B9%B3%E5%BC%80%E7%AA%97"
+    },
+    {
+      "id": "别墅庭院大型规整观赏草丛",
+      "code": "L04",
+      "name": "别墅庭院大型规整观赏草丛",
+      "category": "景观庭院",
+      "space": "庭院景观",
+      "paramCount": 12,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%88%AB%E5%A2%85%E5%BA%AD%E9%99%A2%E5%A4%A7%E5%9E%8B%E8%A7%84%E6%95%B4%E8%A7%82%E8%B5%8F%E8%8D%89%E4%B8%9B"
+    },
+    {
+      "id": "客厅综合主中枢集成阳台与",
+      "code": "C03-HUB",
+      "name": "客厅综合主中枢（集成阳台与餐厅）",
+      "category": "智能中枢",
+      "space": "客厅/餐厅",
+      "paramCount": 67,
+      "features": [
+        "多页可视化主屏",
+        "环境数据监测",
+        "场景联动",
+        "安防告警",
+        "人体存在感知",
+        "照明与色温调节",
+        "遮阳与通风",
+        "能源与储能管理",
+        "家政与晾衣",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%AE%A2%E5%8E%85%E7%BB%BC%E5%90%88%E4%B8%BB%E4%B8%AD%E6%9E%A2%EF%BC%88%E9%9B%86%E6%88%90%E9%98%B3%E5%8F%B0%E4%B8%8E%E9%A4%90%E5%8E%85%EF%BC%89"
+    },
+    {
+      "id": "室内全自动麻将机",
+      "code": "ENT-01",
+      "name": "室内全自动麻将机",
+      "category": "娱乐休闲",
+      "space": "全屋",
+      "paramCount": 34,
+      "features": [
+        "人体存在感知",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%AE%A4%E5%86%85%E5%85%A8%E8%87%AA%E5%8A%A8%E9%BA%BB%E5%B0%86%E6%9C%BA"
+    },
+    {
+      "id": "家庭智能边缘中枢网关",
+      "code": "HUB-01",
+      "name": "家庭智能边缘中枢网关",
+      "category": "智能中枢",
+      "space": "全屋",
+      "paramCount": 39,
+      "features": [
+        "场景联动",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%AE%B6%E5%BA%AD%E6%99%BA%E8%83%BD%E8%BE%B9%E7%BC%98%E4%B8%AD%E6%9E%A2%E7%BD%91%E5%85%B3"
+    },
+    {
+      "id": "电视旁展示储物柜",
+      "code": "C06",
+      "name": "电视旁展示储物柜",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 8,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E7%94%B5%E8%A7%86%E6%97%81%E5%B1%95%E7%A4%BA%E5%82%A8%E7%89%A9%E6%9F%9C"
+    },
+    {
+      "id": "庭院户外休闲小吧台",
+      "code": "FUR-04",
+      "name": "庭院户外休闲小吧台",
+      "category": "家具软装",
+      "space": "庭院景观",
+      "paramCount": 38,
+      "features": [
+        "场景联动",
+        "人体存在感知",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%BA%AD%E9%99%A2%E6%88%B7%E5%A4%96%E4%BC%91%E9%97%B2%E5%B0%8F%E5%90%A7%E5%8F%B0"
+    },
+    {
+      "id": "户外藤编L形转角沙发",
+      "code": "FUR-05",
+      "name": "户外藤编L形转角沙发",
+      "category": "家具软装",
+      "space": "庭院景观",
+      "paramCount": 4,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%88%B7%E5%A4%96%E8%97%A4%E7%BC%96L%E5%BD%A2%E8%BD%AC%E8%A7%92%E6%B2%99%E5%8F%91"
+    },
+    {
+      "id": "户外藤编休闲椅",
+      "code": "FUR-06",
+      "name": "户外藤编休闲椅",
+      "category": "家具软装",
+      "space": "庭院景观",
+      "paramCount": 4,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%88%B7%E5%A4%96%E8%97%A4%E7%BC%96%E4%BC%91%E9%97%B2%E6%A4%85"
+    },
+    {
+      "id": "户外藤编单人椅",
+      "code": "FUR-07",
+      "name": "户外藤编单人椅",
+      "category": "家具软装",
+      "space": "庭院景观",
+      "paramCount": 4,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%88%B7%E5%A4%96%E8%97%A4%E7%BC%96%E5%8D%95%E4%BA%BA%E6%A4%85"
+    },
+    {
+      "id": "户外藤编双人沙发",
+      "code": "FUR-08",
+      "name": "户外藤编双人沙发",
+      "category": "家具软装",
+      "space": "庭院景观",
+      "paramCount": 4,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%88%B7%E5%A4%96%E8%97%A4%E7%BC%96%E5%8F%8C%E4%BA%BA%E6%B2%99%E5%8F%91"
+    },
+    {
+      "id": "户外藤编小圆桌",
+      "code": "FUR-09",
+      "name": "户外藤编小圆桌",
+      "category": "家具软装",
+      "space": "庭院景观",
+      "paramCount": 3,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%88%B7%E5%A4%96%E8%97%A4%E7%BC%96%E5%B0%8F%E5%9C%86%E6%A1%8C"
+    },
+    {
+      "id": "户外藤编方茶几",
+      "code": "FUR-10",
+      "name": "户外藤编方茶几",
+      "category": "家具软装",
+      "space": "庭院景观",
+      "paramCount": 4,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%88%B7%E5%A4%96%E8%97%A4%E7%BC%96%E6%96%B9%E8%8C%B6%E5%87%A0"
+    },
+    {
+      "id": "扫地机器人充电桩",
+      "code": "NRG-01",
+      "name": "扫地机器人充电桩",
+      "category": "能源设备",
+      "space": "能源区",
+      "paramCount": 24,
+      "features": [
+        "环境数据监测",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%85%E7%94%B5%E6%A1%A9"
+    },
+    {
+      "id": "书房头顶护眼吸顶灯",
+      "code": "C33",
+      "name": "书房头顶护眼吸顶灯",
+      "category": "照明灯具",
+      "space": "书房",
+      "paramCount": 15,
+      "features": [
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E4%B9%A6%E6%88%BF%E5%A4%B4%E9%A1%B6%E6%8A%A4%E7%9C%BC%E5%90%B8%E9%A1%B6%E7%81%AF"
+    },
+    {
+      "id": "新中式院落式高端社区大门",
+      "code": "DOF-08",
+      "name": "新中式院落式高端社区大门",
+      "category": "门窗幕墙",
+      "space": "通用空间",
+      "paramCount": 13,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%96%B0%E4%B8%AD%E5%BC%8F%E9%99%A2%E8%90%BD%E5%BC%8F%E9%AB%98%E7%AB%AF%E7%A4%BE%E5%8C%BA%E5%A4%A7%E9%97%A8"
+    },
+    {
+      "id": "方块花坛voxel方块风",
+      "code": "B04",
+      "name": "方块花坛（voxel 方块风格）",
+      "category": "景观庭院",
+      "space": "全屋",
+      "paramCount": 9,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%96%B9%E5%9D%97%E8%8A%B1%E5%9D%9B%EF%BC%88voxel%20%E6%96%B9%E5%9D%97%E9%A3%8E%E6%A0%BC%EF%BC%89"
+    },
+    {
+      "id": "方块草坪灯voxel方块",
+      "code": "B06",
+      "name": "方块草坪灯（voxel 方块风格·智能）",
+      "category": "照明灯具",
+      "space": "全屋",
+      "paramCount": 12,
+      "features": [
+        "场景联动",
+        "照明与色温调节"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%96%B9%E5%9D%97%E8%8D%89%E5%9D%AA%E7%81%AF%EF%BC%88voxel%20%E6%96%B9%E5%9D%97%E9%A3%8E%E6%A0%BC%C2%B7%E6%99%BA%E8%83%BD%EF%BC%89"
+    },
+    {
+      "id": "L12景观灌木球",
+      "code": "L12",
+      "name": "L12_景观灌木球",
+      "category": "景观庭院",
+      "space": "庭院景观",
+      "paramCount": 10,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=L12_%E6%99%AF%E8%A7%82%E7%81%8C%E6%9C%A8%E7%90%83"
+    },
+    {
+      "id": "L13景观花坛",
+      "code": "L13",
+      "name": "L13_景观花坛",
+      "category": "景观庭院",
+      "space": "庭院景观",
+      "paramCount": 13,
+      "features": [],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=L13_%E6%99%AF%E8%A7%82%E8%8A%B1%E5%9D%9B"
+    },
+    {
+      "id": "智能一体式工作站水槽",
+      "code": "KIT-03",
+      "name": "智能一体式工作站水槽",
+      "category": "厨卫设备",
+      "space": "全屋",
+      "paramCount": 33,
+      "features": [
+        "场景联动",
+        "安防告警",
+        "人体存在感知",
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E4%B8%80%E4%BD%93%E5%BC%8F%E5%B7%A5%E4%BD%9C%E7%AB%99%E6%B0%B4%E6%A7%BD"
+    },
+    {
+      "id": "智能一体式马桶",
+      "code": "KIT-04",
+      "name": "智能一体式马桶",
+      "category": "厨卫设备",
+      "space": "卫生间",
+      "paramCount": 17,
+      "features": [
+        "环境数据监测",
+        "安防告警",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E4%B8%80%E4%BD%93%E5%BC%8F%E9%A9%AC%E6%A1%B6"
+    },
+    {
+      "id": "智能阳台休闲躺椅",
+      "code": "FUR-11",
+      "name": "智能阳台休闲躺椅",
+      "category": "家具软装",
+      "space": "家政/阳台",
+      "paramCount": 19,
+      "features": [
+        "人体存在感知",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E9%98%B3%E5%8F%B0%E4%BC%91%E9%97%B2%E8%BA%BA%E6%A4%85"
+    },
+    {
+      "id": "别墅庭院智能充电桩",
+      "code": "E02",
+      "name": "别墅庭院智能充电桩",
+      "category": "能源设备",
+      "space": "庭院景观",
+      "paramCount": 20,
+      "features": [
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%88%AB%E5%A2%85%E5%BA%AD%E9%99%A2%E6%99%BA%E8%83%BD%E5%85%85%E7%94%B5%E6%A1%A9"
+    },
+    {
+      "id": "智能光电感烟探测器",
+      "code": "SEN-02",
+      "name": "智能光电感烟探测器",
+      "category": "传感探测",
+      "space": "全屋",
+      "paramCount": 27,
+      "features": [
+        "场景联动",
+        "安防告警",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E5%85%89%E7%94%B5%E6%84%9F%E7%83%9F%E6%8E%A2%E6%B5%8B%E5%99%A8"
+    },
+    {
+      "id": "厨房智能冰箱",
+      "code": "KIT-05",
+      "name": "厨房智能冰箱",
+      "category": "厨卫设备",
+      "space": "厨房",
+      "paramCount": 22,
+      "features": [
+        "环境数据监测",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8E%A8%E6%88%BF%E6%99%BA%E8%83%BD%E5%86%B0%E7%AE%B1"
+    },
+    {
+      "id": "智能升降书桌",
+      "code": "FUR-12",
+      "name": "智能升降书桌",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 27,
+      "features": [
+        "场景联动",
+        "照明与色温调节",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E5%8D%87%E9%99%8D%E4%B9%A6%E6%A1%8C"
+    },
+    {
+      "id": "智能升降厨房岛台V32",
+      "code": "K01",
+      "name": "智能升降厨房岛台 V3.2",
+      "category": "厨卫设备",
+      "space": "厨房",
+      "paramCount": 62,
+      "features": [
+        "场景联动",
+        "安防告警",
+        "人体存在感知",
+        "照明与色温调节",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E5%8D%87%E9%99%8D%E5%8E%A8%E6%88%BF%E5%B2%9B%E5%8F%B0%20V3.2"
+    },
+    {
+      "id": "智能升降晾衣系统",
+      "code": "B01",
+      "name": "智能升降晾衣系统",
+      "category": "厨卫设备",
+      "space": "全屋",
+      "paramCount": 61,
+      "features": [
+        "环境数据监测",
+        "场景联动",
+        "人体存在感知",
+        "照明与色温调节",
+        "能源与储能管理",
+        "家政与晾衣",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E5%8D%87%E9%99%8D%E6%99%BE%E8%A1%A3%E7%B3%BB%E7%BB%9F"
+    },
+    {
+      "id": "智能单人休闲沙发",
+      "code": "FUR-13",
+      "name": "智能单人休闲沙发",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 38,
+      "features": [
+        "环境数据监测",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E5%8D%95%E4%BA%BA%E4%BC%91%E9%97%B2%E6%B2%99%E5%8F%91"
+    },
+    {
+      "id": "轻奢智能双开入户门V4",
+      "code": "Q01",
+      "name": "轻奢智能双开入户门 V4",
+      "category": "门窗幕墙",
+      "space": "通用空间",
+      "paramCount": 20,
+      "features": [
+        "场景联动",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E8%BD%BB%E5%A5%A2%E6%99%BA%E8%83%BD%E5%8F%8C%E5%BC%80%E5%85%A5%E6%88%B7%E9%97%A8%20V4"
+    },
+    {
+      "id": "智能双抽屉全嵌式洗碗机",
+      "code": "KIT-06",
+      "name": "智能双抽屉全嵌式洗碗机",
+      "category": "厨卫设备",
+      "space": "全屋",
+      "paramCount": 38,
+      "features": [
+        "场景联动",
+        "人体存在感知",
+        "照明与色温调节",
+        "家政与晾衣",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E5%8F%8C%E6%8A%BD%E5%B1%89%E5%85%A8%E5%B5%8C%E5%BC%8F%E6%B4%97%E7%A2%97%E6%9C%BA"
+    },
+    {
+      "id": "智能双灶燃气灶",
+      "code": "KIT-07",
+      "name": "智能双灶燃气灶",
+      "category": "厨卫设备",
+      "space": "全屋",
+      "paramCount": 34,
+      "features": [
+        "场景联动",
+        "安防告警",
+        "人体存在感知",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E5%8F%8C%E7%81%B6%E7%87%83%E6%B0%94%E7%81%B6"
+    },
+    {
+      "id": "厨房智能可燃气体泄漏探测",
+      "code": "SEN-03",
+      "name": "厨房智能可燃气体泄漏探测器",
+      "category": "传感探测",
+      "space": "厨房",
+      "paramCount": 25,
+      "features": [
+        "场景联动",
+        "安防告警",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8E%A8%E6%88%BF%E6%99%BA%E8%83%BD%E5%8F%AF%E7%87%83%E6%B0%94%E4%BD%93%E6%B3%84%E6%BC%8F%E6%8E%A2%E6%B5%8B%E5%99%A8"
+    },
+    {
+      "id": "客厅智能吊灯",
+      "code": "C35",
+      "name": "客厅智能吊灯",
+      "category": "照明灯具",
+      "space": "客厅/餐厅",
+      "paramCount": 19,
+      "features": [
+        "场景联动",
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%AE%A2%E5%8E%85%E6%99%BA%E8%83%BD%E5%90%8A%E7%81%AF"
+    },
+    {
+      "id": "智能地漏",
+      "code": "KIT-08",
+      "name": "智能地漏",
+      "category": "厨卫设备",
+      "space": "全屋",
+      "paramCount": 24,
+      "features": [
+        "场景联动",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E5%9C%B0%E6%BC%8F"
+    },
+    {
+      "id": "智能壁挂空调",
+      "code": "ENV-01",
+      "name": "智能壁挂空调",
+      "category": "环境控制",
+      "space": "全屋",
+      "paramCount": 42,
+      "features": [
+        "环境数据监测",
+        "场景联动",
+        "照明与色温调节",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E5%A3%81%E6%8C%82%E7%A9%BA%E8%B0%83"
+    },
+    {
+      "id": "智能岛式油烟机",
+      "code": "SEN-04",
+      "name": "智能岛式油烟机",
+      "category": "传感探测",
+      "space": "全屋",
+      "paramCount": 38,
+      "features": [
+        "环境数据监测",
+        "场景联动",
+        "安防告警",
+        "人体存在感知",
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E5%B2%9B%E5%BC%8F%E6%B2%B9%E7%83%9F%E6%9C%BA"
+    },
+    {
+      "id": "主卧智能床整体式",
+      "code": "FUR-14",
+      "name": "主卧智能床整体式",
+      "category": "家具软装",
+      "space": "主卧",
+      "paramCount": 20,
+      "features": [
+        "场景联动",
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E4%B8%BB%E5%8D%A7%E6%99%BA%E8%83%BD%E5%BA%8A%E6%95%B4%E4%BD%93%E5%BC%8F"
+    },
+    {
+      "id": "智能淋浴",
+      "code": "KIT-09",
+      "name": "智能淋浴",
+      "category": "厨卫设备",
+      "space": "卫生间",
+      "paramCount": 17,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E6%B7%8B%E6%B5%B4"
+    },
+    {
+      "id": "智能扫地机器人",
+      "code": "KIT-10",
+      "name": "智能扫地机器人",
+      "category": "厨卫设备",
+      "space": "全屋",
+      "paramCount": 39,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA"
+    },
+    {
+      "id": "智能暖风排风系统",
+      "code": "ENV-02",
+      "name": "智能暖风排风系统",
+      "category": "环境控制",
+      "space": "全屋",
+      "paramCount": 48,
+      "features": [
+        "环境数据监测",
+        "场景联动",
+        "人体存在感知",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E6%9A%96%E9%A3%8E%E6%8E%92%E9%A3%8E%E7%B3%BB%E7%BB%9F"
+    },
+    {
+      "id": "智能梳妆桌",
+      "code": "FUR-15",
+      "name": "智能梳妆桌",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 21,
+      "features": [
+        "场景联动",
+        "照明与色温调节",
+        "遮阳与通风",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E6%A2%B3%E5%A6%86%E6%A1%8C"
+    },
+    {
+      "id": "智能沙发",
+      "code": "FUR-16",
+      "name": "智能沙发",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 20,
+      "features": [
+        "环境数据监测",
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E6%B2%99%E5%8F%91"
+    },
+    {
+      "id": "智能洗手台",
+      "code": "KIT-11",
+      "name": "智能洗手台",
+      "category": "厨卫设备",
+      "space": "全屋",
+      "paramCount": 13,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E6%B4%97%E6%89%8B%E5%8F%B0"
+    },
+    {
+      "id": "智能洗衣机",
+      "code": "KIT-12",
+      "name": "智能洗衣机",
+      "category": "厨卫设备",
+      "space": "全屋",
+      "paramCount": 12,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E6%B4%97%E8%A1%A3%E6%9C%BA"
+    },
+    {
+      "id": "智能热泵烘干机",
+      "code": "NRG-02",
+      "name": "智能热泵烘干机",
+      "category": "能源设备",
+      "space": "全屋",
+      "paramCount": 18,
+      "features": [
+        "环境数据监测",
+        "家政与晾衣",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E7%83%AD%E6%B3%B5%E7%83%98%E5%B9%B2%E6%9C%BA"
+    },
+    {
+      "id": "智能窗帘",
+      "code": "DOF-09",
+      "name": "智能窗帘",
+      "category": "门窗幕墙",
+      "space": "通用空间",
+      "paramCount": 17,
+      "features": [
+        "遮阳与通风",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E7%AA%97%E5%B8%98"
+    },
+    {
+      "id": "智能茶几",
+      "code": "FUR-17",
+      "name": "智能茶几",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 12,
+      "features": [
+        "能源与储能管理",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E8%8C%B6%E5%87%A0"
+    },
+    {
+      "id": "L15智能草坪灯",
+      "code": "L15",
+      "name": "L15_智能草坪灯",
+      "category": "照明灯具",
+      "space": "全屋",
+      "paramCount": 12,
+      "features": [
+        "场景联动",
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=L15_%E6%99%BA%E8%83%BD%E8%8D%89%E5%9D%AA%E7%81%AF"
+    },
+    {
+      "id": "主卧智能衣柜",
+      "code": "B01",
+      "name": "主卧智能衣柜",
+      "category": "家具软装",
+      "space": "主卧",
+      "paramCount": 35,
+      "features": [
+        "环境数据监测",
+        "照明与色温调节",
+        "家政与晾衣",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E4%B8%BB%E5%8D%A7%E6%99%BA%E8%83%BD%E8%A1%A3%E6%9F%9C"
+    },
+    {
+      "id": "智能语音交互音箱",
+      "code": "ENT-02",
+      "name": "智能语音交互音箱",
+      "category": "娱乐休闲",
+      "space": "全屋",
+      "paramCount": 12,
+      "features": [
+        "多页可视化主屏",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E8%AF%AD%E9%9F%B3%E4%BA%A4%E4%BA%92%E9%9F%B3%E7%AE%B1"
+    },
+    {
+      "id": "智能饮水机",
+      "code": "KIT-13",
+      "name": "智能饮水机",
+      "category": "厨卫设备",
+      "space": "全屋",
+      "paramCount": 20,
+      "features": [
+        "环境数据监测",
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E9%A5%AE%E6%B0%B4%E6%9C%BA"
+    },
+    {
+      "id": "卧室900木质平开门",
+      "code": "DOF-10",
+      "name": "卧室900木质平开门",
+      "category": "门窗幕墙",
+      "space": "通用空间",
+      "paramCount": 13,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8D%A7%E5%AE%A4900%E6%9C%A8%E8%B4%A8%E5%B9%B3%E5%BC%80%E9%97%A8"
+    },
+    {
+      "id": "阳台标准分块夹层玻璃墙",
+      "code": "DOF-11",
+      "name": "阳台标准分块夹层玻璃墙",
+      "category": "门窗幕墙",
+      "space": "家政/阳台",
+      "paramCount": 6,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E9%98%B3%E5%8F%B0%E6%A0%87%E5%87%86%E5%88%86%E5%9D%97%E5%A4%B9%E5%B1%82%E7%8E%BB%E7%92%83%E5%A2%99"
+    },
+    {
+      "id": "毫米波人体存在传感器",
+      "code": "SEN-05",
+      "name": "毫米波人体存在传感器",
+      "category": "传感探测",
+      "space": "全屋",
+      "paramCount": 36,
+      "features": [
+        "场景联动",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%AF%AB%E7%B1%B3%E6%B3%A2%E4%BA%BA%E4%BD%93%E5%AD%98%E5%9C%A8%E4%BC%A0%E6%84%9F%E5%99%A8"
+    },
+    {
+      "id": "水浸传感器",
+      "code": "SEN-06",
+      "name": "水浸传感器",
+      "category": "传感探测",
+      "space": "全屋",
+      "paramCount": 25,
+      "features": [
+        "场景联动",
+        "安防告警",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%B0%B4%E6%B5%B8%E4%BC%A0%E6%84%9F%E5%99%A8"
+    },
+    {
+      "id": "玄关2400正方形地毯",
+      "code": "M01",
+      "name": "玄关2400正方形地毯",
+      "category": "家具软装",
+      "space": "玄关",
+      "paramCount": 6,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E7%8E%84%E5%85%B32400%E6%AD%A3%E6%96%B9%E5%BD%A2%E5%9C%B0%E6%AF%AF"
+    },
+    {
+      "id": "环形厨房储物岛台",
+      "code": "K04",
+      "name": "环形厨房储物岛台",
+      "category": "厨卫设备",
+      "space": "厨房",
+      "paramCount": 40,
+      "features": [
+        "场景联动",
+        "人体存在感知",
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E7%8E%AF%E5%BD%A2%E5%8E%A8%E6%88%BF%E5%82%A8%E7%89%A9%E5%B2%9B%E5%8F%B0"
+    },
+    {
+      "id": "现代别墅庭院花坛V2灌木",
+      "code": "L02",
+      "name": "现代别墅庭院花坛 V2（灌木落地修复）",
+      "category": "景观庭院",
+      "space": "庭院景观",
+      "paramCount": 15,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E7%8E%B0%E4%BB%A3%E5%88%AB%E5%A2%85%E5%BA%AD%E9%99%A2%E8%8A%B1%E5%9D%9B%20V2%EF%BC%88%E7%81%8C%E6%9C%A8%E8%90%BD%E5%9C%B0%E4%BF%AE%E5%A4%8D%EF%BC%89"
+    },
+    {
+      "id": "现代轻奢别墅区社区大门",
+      "code": "DOF-12",
+      "name": "现代轻奢别墅区社区大门",
+      "category": "门窗幕墙",
+      "space": "通用空间",
+      "paramCount": 14,
+      "features": [
+        "场景联动",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E7%8E%B0%E4%BB%A3%E8%BD%BB%E5%A5%A2%E5%88%AB%E5%A2%85%E5%8C%BA%E7%A4%BE%E5%8C%BA%E5%A4%A7%E9%97%A8"
+    },
+    {
+      "id": "电视柜含电视机音响",
+      "code": "C05",
+      "name": "电视柜（含电视机+音响）",
+      "category": "家具软装",
+      "space": "客厅",
+      "paramCount": 10,
+      "features": [],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E7%94%B5%E8%A7%86%E6%9F%9C%EF%BC%88%E5%90%AB%E7%94%B5%E8%A7%86%E6%9C%BA%2B%E9%9F%B3%E5%93%8D%EF%BC%89"
+    },
+    {
+      "id": "庭院矩形抬高式菜畦",
+      "code": "LND-05",
+      "name": "庭院矩形抬高式菜畦",
+      "category": "景观庭院",
+      "space": "庭院景观",
+      "paramCount": 12,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%BA%AD%E9%99%A2%E7%9F%A9%E5%BD%A2%E6%8A%AC%E9%AB%98%E5%BC%8F%E8%8F%9C%E7%95%A6"
+    },
+    {
+      "id": "智能空气净化器",
+      "code": "ENV-03",
+      "name": "智能空气净化器",
+      "category": "环境控制",
+      "space": "全屋",
+      "paramCount": 30,
+      "features": [
+        "环境数据监测",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E6%99%BA%E8%83%BD%E7%A9%BA%E6%B0%94%E5%87%80%E5%8C%96%E5%99%A8"
+    },
+    {
+      "id": "客厅立式空调稳定版",
+      "code": "ENV-04",
+      "name": "客厅立式空调稳定版",
+      "category": "环境控制",
+      "space": "客厅/餐厅",
+      "paramCount": 17,
+      "features": [
+        "环境数据监测",
+        "场景联动",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%AE%A2%E5%8E%85%E7%AB%8B%E5%BC%8F%E7%A9%BA%E8%B0%83%E7%A8%B3%E5%AE%9A%E7%89%88"
+    },
+    {
+      "id": "别墅庭院自然伞形景观树",
+      "code": "LND-06",
+      "name": "别墅庭院自然伞形景观树",
+      "category": "景观庭院",
+      "space": "庭院景观",
+      "paramCount": 11,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%88%AB%E5%A2%85%E5%BA%AD%E9%99%A2%E8%87%AA%E7%84%B6%E4%BC%9E%E5%BD%A2%E6%99%AF%E8%A7%82%E6%A0%91"
+    },
+    {
+      "id": "客厅窗边自然光传感器",
+      "code": "SEN-07",
+      "name": "客厅窗边自然光传感器",
+      "category": "传感探测",
+      "space": "客厅/餐厅",
+      "paramCount": 23,
+      "features": [
+        "场景联动",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%AE%A2%E5%8E%85%E7%AA%97%E8%BE%B9%E8%87%AA%E7%84%B6%E5%85%89%E4%BC%A0%E6%84%9F%E5%99%A8"
+    },
+    {
+      "id": "别墅庭院自然景观树V3树",
+      "code": "L01",
+      "name": "别墅庭院自然景观树 V3（树叶显示修复）",
+      "category": "景观庭院",
+      "space": "庭院景观",
+      "paramCount": 13,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%88%AB%E5%A2%85%E5%BA%AD%E9%99%A2%E8%87%AA%E7%84%B6%E6%99%AF%E8%A7%82%E6%A0%91%20V3%EF%BC%88%E6%A0%91%E5%8F%B6%E6%98%BE%E7%A4%BA%E4%BF%AE%E5%A4%8D%EF%BC%89"
+    },
+    {
+      "id": "艺术高背软包餐椅",
+      "code": "FUR-18",
+      "name": "艺术高背软包餐椅",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 10,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E8%89%BA%E6%9C%AF%E9%AB%98%E8%83%8C%E8%BD%AF%E5%8C%85%E9%A4%90%E6%A4%85"
+    },
+    {
+      "id": "草坪简洁",
+      "code": "LND-07",
+      "name": "草坪_简洁",
+      "category": "景观庭院",
+      "space": "全屋",
+      "paramCount": 7,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E8%8D%89%E5%9D%AA_%E7%AE%80%E6%B4%81"
+    },
+    {
+      "id": "客厅装饰落地灯A现代简约",
+      "code": "C_Living_FloorLamp_A",
+      "name": "客厅装饰落地灯A（现代简约直杆款）",
+      "category": "照明灯具",
+      "space": "客厅/餐厅",
+      "paramCount": 8,
+      "features": [
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%AE%A2%E5%8E%85%E8%A3%85%E9%A5%B0%E8%90%BD%E5%9C%B0%E7%81%AFA%EF%BC%88%E7%8E%B0%E4%BB%A3%E7%AE%80%E7%BA%A6%E7%9B%B4%E6%9D%86%E6%AC%BE%EF%BC%89"
+    },
+    {
+      "id": "别墅庭院规整观赏草丛V2",
+      "code": "L03",
+      "name": "别墅庭院规整观赏草丛 V2",
+      "category": "景观庭院",
+      "space": "庭院景观",
+      "paramCount": 12,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%88%AB%E5%A2%85%E5%BA%AD%E9%99%A2%E8%A7%84%E6%95%B4%E8%A7%82%E8%B5%8F%E8%8D%89%E4%B8%9B%20V2"
+    },
+    {
+      "id": "通用边柜",
+      "code": "C06",
+      "name": "通用边柜",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 6,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E9%80%9A%E7%94%A8%E8%BE%B9%E6%9F%9C"
+    },
+    {
+      "id": "4至6人简约长方形餐桌",
+      "code": "C10",
+      "name": "4至6人简约长方形餐桌",
+      "category": "家具软装",
+      "space": "全屋",
+      "paramCount": 7,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=4%E8%87%B36%E4%BA%BA%E7%AE%80%E7%BA%A6%E9%95%BF%E6%96%B9%E5%BD%A2%E9%A4%90%E6%A1%8C"
+    },
+    {
+      "id": "卫生间头顶防潮吸顶灯",
+      "code": "C32",
+      "name": "卫生间头顶防潮吸顶灯",
+      "category": "照明灯具",
+      "space": "卫生间",
+      "paramCount": 15,
+      "features": [
+        "照明与色温调节",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8D%AB%E7%94%9F%E9%97%B4%E5%A4%B4%E9%A1%B6%E9%98%B2%E6%BD%AE%E5%90%B8%E9%A1%B6%E7%81%AF"
+    },
+    {
+      "id": "卫生间800防潮平开门",
+      "code": "DOF-13",
+      "name": "卫生间800防潮平开门",
+      "category": "门窗幕墙",
+      "space": "卫生间",
+      "paramCount": 13,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E5%8D%AB%E7%94%9F%E9%97%B4800%E9%98%B2%E6%BD%AE%E5%B9%B3%E5%BC%80%E9%97%A8"
+    },
+    {
+      "id": "玄关智能鞋柜换鞋凳一体柜",
+      "code": "FUR-19",
+      "name": "玄关智能鞋柜换鞋凳一体柜",
+      "category": "家具软装",
+      "space": "玄关",
+      "paramCount": 28,
+      "features": [
+        "照明与色温调节",
+        "遮阳与通风",
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E7%8E%84%E5%85%B3%E6%99%BA%E8%83%BD%E9%9E%8B%E6%9F%9C%E6%8D%A2%E9%9E%8B%E5%87%B3%E4%B8%80%E4%BD%93%E6%9F%9C"
+    },
+    {
+      "id": "餐厅一体式餐边柜",
+      "code": "FUR-20",
+      "name": "餐厅一体式餐边柜",
+      "category": "家具软装",
+      "space": "客厅/餐厅",
+      "paramCount": 7,
+      "features": [
+        "参数化可调外观"
+      ],
+      "url": "https://2239168985-sudo.github.io/zhijuhuinao/components.html?q=%E9%A4%90%E5%8E%85%E4%B8%80%E4%BD%93%E5%BC%8F%E9%A4%90%E8%BE%B9%E6%9F%9C"
+    }
+  ]
+}

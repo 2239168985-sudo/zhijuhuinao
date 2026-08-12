@@ -1,0 +1,786 @@
+[
+ {
+  "name": "C03-N2_智能香薰氛围灯",
+  "category": "照明灯具",
+  "code": "LIT-01",
+  "row": null,
+  "out": "g001"
+ },
+ {
+  "name": "小熊玩偶",
+  "category": "装饰摆件",
+  "code": "C03-1",
+  "row": null,
+  "out": "g002"
+ },
+ {
+  "name": "茶杯",
+  "category": "装饰摆件",
+  "code": "C04-1",
+  "row": null,
+  "out": "g003"
+ },
+ {
+  "name": "小绿植",
+  "category": "装饰摆件",
+  "code": "C05-1",
+  "row": null,
+  "out": "g004"
+ },
+ {
+  "name": "游戏机",
+  "category": "娱乐休闲",
+  "code": "C05-2",
+  "row": null,
+  "out": "g005"
+ },
+ {
+  "name": "C03-N3_现代坐姿猫咪玩偶",
+  "category": "装饰摆件",
+  "code": "C05-4",
+  "row": null,
+  "out": "g006"
+ },
+ {
+  "name": "企鹅玩偶",
+  "category": "装饰摆件",
+  "code": "C05-5",
+  "row": null,
+  "out": "g007"
+ },
+ {
+  "name": "现代别墅三跑楼梯",
+  "category": "楼梯结构",
+  "code": "STR-01",
+  "row": 35,
+  "out": "g008"
+ },
+ {
+  "name": "厨房下悬窗",
+  "category": "门窗幕墙",
+  "code": "DOF-01",
+  "row": 38,
+  "out": "g009"
+ },
+ {
+  "name": "庭院丛生参数化竹子",
+  "category": "景观庭院",
+  "code": "LND-01",
+  "row": 59,
+  "out": "g010"
+ },
+ {
+  "name": "庭院中式现代小凉亭",
+  "category": "景观庭院",
+  "code": "LND-02",
+  "row": 40,
+  "out": "g011"
+ },
+ {
+  "name": "主卧智能中枢显示器",
+  "category": "智能中枢",
+  "code": "C07",
+  "row": null,
+  "out": "g012"
+ },
+ {
+  "name": "书房智能中枢显示器",
+  "category": "智能中枢",
+  "code": "C04",
+  "row": 21,
+  "out": "g013"
+ },
+ {
+  "name": "智能书柜",
+  "category": "家具软装",
+  "code": "C30",
+  "row": 22,
+  "out": "g014"
+ },
+ {
+  "name": "多功能人体工学座椅",
+  "category": "家具软装",
+  "code": "FUR-01",
+  "row": 20,
+  "out": "g015"
+ },
+ {
+  "name": "庭院假山流水池塘",
+  "category": "景观庭院",
+  "code": "LND-03",
+  "row": 66,
+  "out": "g016"
+ },
+ {
+  "name": "别墅家庭储能设备柜及能源设备区",
+  "category": "能源设备",
+  "code": "E03",
+  "row": 1,
+  "out": "g017"
+ },
+ {
+  "name": "全景通风落地窗",
+  "category": "门窗幕墙",
+  "code": "DOF-02",
+  "row": 34,
+  "out": "g018"
+ },
+ {
+  "name": "六合一环境传感器",
+  "category": "传感探测",
+  "code": "SEN-01",
+  "row": 72,
+  "out": "g019"
+ },
+ {
+  "name": "到顶厨房储物吊柜",
+  "category": "厨卫设备",
+  "code": "KIT-01",
+  "row": 10,
+  "out": "g020"
+ },
+ {
+  "name": "次卧小床纯家具版",
+  "category": "家具软装",
+  "code": "B02",
+  "row": 53,
+  "out": "g021"
+ },
+ {
+  "name": "别墅庭院单车位光伏车库",
+  "category": "能源设备",
+  "code": "E01",
+  "row": 3,
+  "out": "g022"
+ },
+ {
+  "name": "主卧头顶吸顶灯 V2",
+  "category": "照明灯具",
+  "code": "C31",
+  "row": 54,
+  "out": "g023"
+ },
+ {
+  "name": "公共卫生间智能中枢",
+  "category": "智能中枢",
+  "code": "C13",
+  "row": 37,
+  "out": "g024"
+ },
+ {
+  "name": "厨房安全中枢显示器",
+  "category": "智能中枢",
+  "code": "C10",
+  "row": 9,
+  "out": "g025"
+ },
+ {
+  "name": "厨房智能灯具系统",
+  "category": "照明灯具",
+  "code": "C32",
+  "row": 58,
+  "out": "g026"
+ },
+ {
+  "name": "庭院参数化石拱桥",
+  "category": "景观庭院",
+  "code": "LND-04",
+  "row": 56,
+  "out": "g027"
+ },
+ {
+  "name": "双扇玻璃推拉门",
+  "category": "门窗幕墙",
+  "code": "DOF-03",
+  "row": 36,
+  "out": "g028"
+ },
+ {
+  "name": "双机嵌入式洗烘储物柜",
+  "category": "家具软装",
+  "code": "FUR-02",
+  "row": 48,
+  "out": "g029"
+ },
+ {
+  "name": "可变圆形六至八人餐桌",
+  "category": "家具软装",
+  "code": "FUR-03",
+  "row": 42,
+  "out": "g030"
+ },
+ {
+  "name": "可调单双洞外墙",
+  "category": "门窗幕墙",
+  "code": "DOF-04",
+  "row": 32,
+  "out": "g031"
+ },
+ {
+  "name": "普通台式微波炉",
+  "category": "厨卫设备",
+  "code": "KIT-02",
+  "row": 12,
+  "out": "g032"
+ },
+ {
+  "name": "阳台1660右固定玻璃折叠移门",
+  "category": "门窗幕墙",
+  "code": "DOF-05",
+  "row": null,
+  "out": "g033"
+ },
+ {
+  "name": "阳台1300右固定玻璃折叠移门",
+  "category": "门窗幕墙",
+  "code": "DOF-06",
+  "row": null,
+  "out": "g034"
+ },
+ {
+  "name": "卧室固定加平开窗",
+  "category": "门窗幕墙",
+  "code": "DOF-07",
+  "row": 31,
+  "out": "g035"
+ },
+ {
+  "name": "别墅庭院大型规整观赏草丛",
+  "category": "景观庭院",
+  "code": "L04",
+  "row": 60,
+  "out": "g036"
+ },
+ {
+  "name": "客厅综合主中枢（集成阳台与餐厅）",
+  "category": "智能中枢",
+  "code": "C03-HUB",
+  "row": 9,
+  "out": "g037"
+ },
+ {
+  "name": "室内全自动麻将机",
+  "category": "娱乐休闲",
+  "code": "ENT-01",
+  "row": 26,
+  "out": "g038"
+ },
+ {
+  "name": "家庭智能边缘中枢网关",
+  "category": "智能中枢",
+  "code": "HUB-01",
+  "row": null,
+  "out": "g039"
+ },
+ {
+  "name": "电视旁展示储物柜",
+  "category": "家具软装",
+  "code": "C06",
+  "row": 44,
+  "out": "g040"
+ },
+ {
+  "name": "庭院户外休闲小吧台",
+  "category": "家具软装",
+  "code": "FUR-04",
+  "row": 65,
+  "out": "g041"
+ },
+ {
+  "name": "户外藤编L形转角沙发",
+  "category": "家具软装",
+  "code": "FUR-05",
+  "row": 85,
+  "out": "g042"
+ },
+ {
+  "name": "户外藤编休闲椅",
+  "category": "家具软装",
+  "code": "FUR-06",
+  "row": 80,
+  "out": "g043"
+ },
+ {
+  "name": "户外藤编单人椅",
+  "category": "家具软装",
+  "code": "FUR-07",
+  "row": 80,
+  "out": "g044"
+ },
+ {
+  "name": "户外藤编双人沙发",
+  "category": "家具软装",
+  "code": "FUR-08",
+  "row": 82,
+  "out": "g045"
+ },
+ {
+  "name": "户外藤编小圆桌",
+  "category": "家具软装",
+  "code": "FUR-09",
+  "row": 83,
+  "out": "g046"
+ },
+ {
+  "name": "户外藤编方茶几",
+  "category": "家具软装",
+  "code": "FUR-10",
+  "row": 81,
+  "out": "g047"
+ },
+ {
+  "name": "扫地机器人充电桩",
+  "category": "能源设备",
+  "code": "NRG-01",
+  "row": 47,
+  "out": "g048"
+ },
+ {
+  "name": "书房头顶护眼吸顶灯",
+  "category": "照明灯具",
+  "code": "C33",
+  "row": 54,
+  "out": "g049"
+ },
+ {
+  "name": "新中式院落式高端社区大门",
+  "category": "门窗幕墙",
+  "code": "DOF-08",
+  "row": 39,
+  "out": "g050"
+ },
+ {
+  "name": "方块花坛（voxel 方块风格）",
+  "category": "景观庭院",
+  "code": "B04",
+  "row": 68,
+  "out": "g051"
+ },
+ {
+  "name": "方块草坪灯（voxel 方块风格·智能）",
+  "category": "照明灯具",
+  "code": "B06",
+  "row": 61,
+  "out": "g052"
+ },
+ {
+  "name": "L12_景观灌木球",
+  "category": "景观庭院",
+  "code": "L12",
+  "row": 67,
+  "out": "g053"
+ },
+ {
+  "name": "L13_景观花坛",
+  "category": "景观庭院",
+  "code": "L13",
+  "row": 68,
+  "out": "g054"
+ },
+ {
+  "name": "智能一体式工作站水槽",
+  "category": "厨卫设备",
+  "code": "KIT-03",
+  "row": 18,
+  "out": "g055"
+ },
+ {
+  "name": "智能一体式马桶",
+  "category": "厨卫设备",
+  "code": "KIT-04",
+  "row": 5,
+  "out": "g056"
+ },
+ {
+  "name": "智能阳台休闲躺椅",
+  "category": "家具软装",
+  "code": "FUR-11",
+  "row": 25,
+  "out": "g057"
+ },
+ {
+  "name": "别墅庭院智能充电桩",
+  "category": "能源设备",
+  "code": "E02",
+  "row": 2,
+  "out": "g058"
+ },
+ {
+  "name": "智能光电感烟探测器",
+  "category": "传感探测",
+  "code": "SEN-02",
+  "row": 75,
+  "out": "g059"
+ },
+ {
+  "name": "厨房智能冰箱",
+  "category": "厨卫设备",
+  "code": "KIT-05",
+  "row": 8,
+  "out": "g060"
+ },
+ {
+  "name": "智能升降书桌",
+  "category": "家具软装",
+  "code": "FUR-12",
+  "row": 24,
+  "out": "g061"
+ },
+ {
+  "name": "智能升降厨房岛台 V3.2",
+  "category": "厨卫设备",
+  "code": "K01",
+  "row": 14,
+  "out": "g062"
+ },
+ {
+  "name": "智能升降晾衣系统",
+  "category": "厨卫设备",
+  "code": "B01",
+  "row": null,
+  "out": "g063"
+ },
+ {
+  "name": "智能单人休闲沙发",
+  "category": "家具软装",
+  "code": "FUR-13",
+  "row": 87,
+  "out": "g064"
+ },
+ {
+  "name": "轻奢智能双开入户门 V4",
+  "category": "门窗幕墙",
+  "code": "Q01",
+  "row": 89,
+  "out": "g065"
+ },
+ {
+  "name": "智能双抽屉全嵌式洗碗机",
+  "category": "厨卫设备",
+  "code": "KIT-06",
+  "row": 15,
+  "out": "g066"
+ },
+ {
+  "name": "智能双灶燃气灶",
+  "category": "厨卫设备",
+  "code": "KIT-07",
+  "row": 17,
+  "out": "g067"
+ },
+ {
+  "name": "厨房智能可燃气体泄漏探测器",
+  "category": "传感探测",
+  "code": "SEN-03",
+  "row": 76,
+  "out": "g068"
+ },
+ {
+  "name": "客厅智能吊灯",
+  "category": "照明灯具",
+  "code": "C35",
+  "row": 45,
+  "out": "g069"
+ },
+ {
+  "name": "智能地漏",
+  "category": "厨卫设备",
+  "code": "KIT-08",
+  "row": 6,
+  "out": "g070"
+ },
+ {
+  "name": "智能壁挂空调",
+  "category": "环境控制",
+  "code": "ENV-01",
+  "row": 23,
+  "out": "g071"
+ },
+ {
+  "name": "智能岛式油烟机",
+  "category": "传感探测",
+  "code": "SEN-04",
+  "row": 13,
+  "out": "g072"
+ },
+ {
+  "name": "主卧智能床整体式",
+  "category": "家具软装",
+  "code": "FUR-14",
+  "row": 53,
+  "out": "g073"
+ },
+ {
+  "name": "智能淋浴",
+  "category": "厨卫设备",
+  "code": "KIT-09",
+  "row": 7,
+  "out": "g074"
+ },
+ {
+  "name": "智能扫地机器人",
+  "category": "厨卫设备",
+  "code": "KIT-10",
+  "row": null,
+  "out": "g075"
+ },
+ {
+  "name": "智能暖风排风系统",
+  "category": "环境控制",
+  "code": "ENV-02",
+  "row": null,
+  "out": "g076"
+ },
+ {
+  "name": "智能梳妆桌",
+  "category": "家具软装",
+  "code": "FUR-15",
+  "row": 88,
+  "out": "g077"
+ },
+ {
+  "name": "智能沙发",
+  "category": "家具软装",
+  "code": "FUR-16",
+  "row": 87,
+  "out": "g078"
+ },
+ {
+  "name": "智能洗手台",
+  "category": "厨卫设备",
+  "code": "KIT-11",
+  "row": 4,
+  "out": "g079"
+ },
+ {
+  "name": "智能洗衣机",
+  "category": "厨卫设备",
+  "code": "KIT-12",
+  "row": 27,
+  "out": "g080"
+ },
+ {
+  "name": "智能热泵烘干机",
+  "category": "能源设备",
+  "code": "NRG-02",
+  "row": 28,
+  "out": "g081"
+ },
+ {
+  "name": "智能窗帘",
+  "category": "门窗幕墙",
+  "code": "DOF-09",
+  "row": 86,
+  "out": "g082"
+ },
+ {
+  "name": "智能茶几",
+  "category": "家具软装",
+  "code": "FUR-17",
+  "row": 52,
+  "out": "g083"
+ },
+ {
+  "name": "L15_智能草坪灯",
+  "category": "照明灯具",
+  "code": "L15",
+  "row": null,
+  "out": "g084"
+ },
+ {
+  "name": "主卧智能衣柜",
+  "category": "家具软装",
+  "code": "B01",
+  "row": 55,
+  "out": "g085"
+ },
+ {
+  "name": "智能语音交互音箱",
+  "category": "娱乐休闲",
+  "code": "ENT-02",
+  "row": 90,
+  "out": "g086"
+ },
+ {
+  "name": "智能饮水机",
+  "category": "厨卫设备",
+  "code": "KIT-13",
+  "row": 91,
+  "out": "g087"
+ },
+ {
+  "name": "卧室900木质平开门",
+  "category": "门窗幕墙",
+  "code": "DOF-10",
+  "row": 33,
+  "out": "g088"
+ },
+ {
+  "name": "阳台标准分块夹层玻璃墙",
+  "category": "门窗幕墙",
+  "code": "DOF-11",
+  "row": null,
+  "out": "g089"
+ },
+ {
+  "name": "毫米波人体存在传感器",
+  "category": "传感探测",
+  "code": "SEN-05",
+  "row": 64,
+  "out": "g090"
+ },
+ {
+  "name": "水浸传感器",
+  "category": "传感探测",
+  "code": "SEN-06",
+  "row": 73,
+  "out": "g091"
+ },
+ {
+  "name": "玄关2400正方形地毯",
+  "category": "家具软装",
+  "code": "M01",
+  "row": 49,
+  "out": "g092"
+ },
+ {
+  "name": "环形厨房储物岛台",
+  "category": "厨卫设备",
+  "code": "K04",
+  "row": 11,
+  "out": "g093"
+ },
+ {
+  "name": "现代别墅庭院花坛 V2（灌木落地修复）",
+  "category": "景观庭院",
+  "code": "L02",
+  "row": 68,
+  "out": "g094"
+ },
+ {
+  "name": "现代轻奢别墅区社区大门",
+  "category": "门窗幕墙",
+  "code": "DOF-12",
+  "row": 39,
+  "out": "g095"
+ },
+ {
+  "name": "电视柜（含电视机+音响）",
+  "category": "家具软装",
+  "code": "C05",
+  "row": 41,
+  "out": "g096"
+ },
+ {
+  "name": "庭院矩形抬高式菜畦",
+  "category": "景观庭院",
+  "code": "LND-05",
+  "row": 71,
+  "out": "g097"
+ },
+ {
+  "name": "智能空气净化器",
+  "category": "环境控制",
+  "code": "ENV-03",
+  "row": null,
+  "out": "g098"
+ },
+ {
+  "name": "客厅立式空调稳定版",
+  "category": "环境控制",
+  "code": "ENV-04",
+  "row": 43,
+  "out": "g099"
+ },
+ {
+  "name": "别墅庭院自然伞形景观树",
+  "category": "景观庭院",
+  "code": "LND-06",
+  "row": 79,
+  "out": "g100"
+ },
+ {
+  "name": "客厅窗边自然光传感器",
+  "category": "传感探测",
+  "code": "SEN-07",
+  "row": 77,
+  "out": "g101"
+ },
+ {
+  "name": "别墅庭院自然景观树 V3（树叶显示修复）",
+  "category": "景观庭院",
+  "code": "L01",
+  "row": 78,
+  "out": "g102"
+ },
+ {
+  "name": "艺术高背软包餐椅",
+  "category": "家具软装",
+  "code": "FUR-18",
+  "row": 50,
+  "out": "g103"
+ },
+ {
+  "name": "草坪_简洁",
+  "category": "景观庭院",
+  "code": "LND-07",
+  "row": 57,
+  "out": "g104"
+ },
+ {
+  "name": "客厅装饰落地灯A（现代简约直杆款）",
+  "category": "照明灯具",
+  "code": "C_Living_FloorLamp_A",
+  "row": 46,
+  "out": "g105"
+ },
+ {
+  "name": "别墅庭院规整观赏草丛 V2",
+  "category": "景观庭院",
+  "code": "L03",
+  "row": 60,
+  "out": "g106"
+ },
+ {
+  "name": "通用边柜",
+  "category": "家具软装",
+  "code": "C06",
+  "row": 48,
+  "out": "g107"
+ },
+ {
+  "name": "4至6人简约长方形餐桌",
+  "category": "家具软装",
+  "code": "C10",
+  "row": 51,
+  "out": "g108"
+ },
+ {
+  "name": "卫生间头顶防潮吸顶灯",
+  "category": "照明灯具",
+  "code": "C32",
+  "row": 54,
+  "out": "g109"
+ },
+ {
+  "name": "卫生间800防潮平开门",
+  "category": "门窗幕墙",
+  "code": "DOF-13",
+  "row": null,
+  "out": "g110"
+ },
+ {
+  "name": "玄关智能鞋柜换鞋凳一体柜",
+  "category": "家具软装",
+  "code": "FUR-19",
+  "row": null,
+  "out": "g111"
+ },
+ {
+  "name": "餐厅一体式餐边柜",
+  "category": "家具软装",
+  "code": "FUR-20",
+  "row": null,
+  "out": "g112"
+ }
+]

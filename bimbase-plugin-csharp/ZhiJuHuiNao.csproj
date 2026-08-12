@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <OutputType>Library</OutputType>
+    <PlatformTarget>x64</PlatformTarget>
+    <AssemblyName>ZhiJuHuiNaoEmbed</AssemblyName>
+    <RootNamespace>ZhiJuHuiNaoEmbed</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!--
+      BIMBase C# SDK 核心引用。
+      请将下面 4 个 HintPath 改成你本机「BIMBase 建模软件 2025R1.0_SDK」里的真实路径。
+      典型位置：C:\Program Files\...\BIMBase建模软件2025R1.0_SDK V1.6\Assemblies\
+      若不确定，可在 SDK 目录里搜索 BIMBaseNet.dll / BIMBaseCS.dll 后填入。
+    -->
+    <Reference Include="BIMBaseNet">
+      <HintPath>..\SDK\BIMBaseNet.dll</HintPath>
+    </Reference>
+    <Reference Include="BIMBaseNet.UI">
+      <HintPath>..\SDK\BIMBaseNet.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="BIMBaseNet.Geometries">
+      <HintPath>..\SDK\BIMBaseNet.Geometries.dll</HintPath>
+    </Reference>
+    <Reference Include="BIMBaseCS">
+      <HintPath>..\SDK\BIMBaseCS.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- WebView2（Edge 内核浏览器控件），NuGet 自动还原 -->
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.2792.45" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BIMPyPlugin>
+    <BfaLibName>智居慧脑</BfaLibName>
+    <PluginVersion>1.0.1</PluginVersion>
+    <LoadStatus>true</LoadStatus>
+    <Category name="智居慧脑">
+        <Panel name="快速访问">
+            <Button name="打开展示站">
+                <command>open_site.py</command>
+                <iconPath>open_site.ico</iconPath>
+            </Button>
+            <Button name="构件库总览">
+                <command>open_components.py</command>
+                <iconPath>components.ico</iconPath>
+            </Button>
+            <Button name="定位当前构件">
+                <command>locate_component.py</command>
+                <iconPath>locate.ico</iconPath>
+            </Button>
+            <Button name="导出BIMBase构件清单">
+                <command>export_bimbase_components.py</command>
+                <iconPath>export.ico</iconPath>
+            </Button>
+        </Panel>
+    </Category>
+    <Name>智居慧脑</Name>
+    <PluginModule>C:\ProgramData\PKPM\BIMBase\Plugins\Pro\V1.6\pythonplugin\智居慧脑\</PluginModule>
+    <PluginSDKVersion>1.6.2</PluginSDKVersion>
+</BIMPyPlugin>

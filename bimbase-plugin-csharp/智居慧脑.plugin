@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BIMBase C# 插件清单（.plugin）。
+  放置目录：C:\ProgramData\PKPM\BIMBase\Plugins\Pro\V1.6\c#plugin\
+  （与 Python 插件的 pythonplugin 目录是分开的）
+
+  必改项：
+  1. <EntryAssembly> 改成你编译出的 ZhiJuHuiNaoEmbed.dll 完整路径。
+  2. <PluginiD> 改成你在 PKPM 官方平台申请到的 32 位插件标识（见 README）。
+     注意：官方文档标签名为 <PluginiD>（小写 i）；若你本机 SDK 识别 <PluginID>，则改用后者。
+  3. <PluginSDKVersion> 与你「关于」里看到的 SDK 版本一致（示例 V1.6.2）。
+-->
+<Plugin>
+  <Name>智居慧脑内嵌面板</Name>
+  <Description>在 BIMBase 内嵌停靠面板中用 WebView2 打开「智居慧脑」构件库网站</Description>
+  <EntryAssembly>ZhiJuHuiNaoEmbed.dll</EntryAssembly>
+  <AssemblyList></AssemblyList>
+  <AssemblyPathList></AssemblyPathList>
+  <SchemaPath></SchemaPath>
+  <SchemaVersion></SchemaVersion>
+  <Ribbon></Ribbon>
+  <ActionChDomainKeys>BIMBase</ActionChDomainKeys>
+  <PluginSDKVersion>1.6.2</PluginSDKVersion>
+  <PluginVersion>1.0.0</PluginVersion>
+  <PluginiD>REPLACE_WITH_YOUR_32CHAR_PLUGIN_ID</PluginiD>
+  <VendorId>PKPM</VendorId>
+</Plugin>

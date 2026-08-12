@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+dist
+build
+*.log
+.DS_Store
+next-env.d.ts
+tsconfig.tsbuildinfo
+_test*
+_tmp*
+任务汇总_给Kimi.md
+
+__pycache__/
+*.pyc

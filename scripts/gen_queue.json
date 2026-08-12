@@ -1,0 +1,898 @@
+[
+ {
+  "out": "g001",
+  "name": "C03-N2_智能香薰氛围灯",
+  "category": "照明灯具",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A smart aromatherapy ambient light lamp, cylindrical modern design, soft glowing warm light, frosted glass body, sitting on a surface."
+ },
+ {
+  "out": "g002",
+  "name": "小熊玩偶",
+  "category": "装饰摆件",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A cute plush teddy bear soft toy figurine, sitting pose, beige brown fur, home decoration."
+ },
+ {
+  "out": "g003",
+  "name": "茶杯",
+  "category": "装饰摆件",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A ceramic tea cup with saucer, minimalist modern, on a table."
+ },
+ {
+  "out": "g004",
+  "name": "小绿植",
+  "category": "装饰摆件",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A small potted green houseplant in a modern ceramic pot, fresh green foliage."
+ },
+ {
+  "out": "g005",
+  "name": "游戏机",
+  "category": "娱乐休闲",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A modern home video game console with controller, sleek black design."
+ },
+ {
+  "out": "g006",
+  "name": "C03-N3_现代坐姿猫咪玩偶",
+  "category": "装饰摆件",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A cute seated cat plush figurine, soft grey fur, modern home decor."
+ },
+ {
+  "out": "g007",
+  "name": "企鹅玩偶",
+  "category": "装饰摆件",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A cute plush penguin figurine, black and white, home decoration."
+ },
+ {
+  "out": "g008",
+  "name": "现代别墅三跑楼梯",
+  "category": "楼梯结构",
+  "row": 35,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\35_三跑楼梯_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '现代别墅三跑楼梯' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g009",
+  "name": "厨房下悬窗",
+  "category": "门窗幕墙",
+  "row": 38,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\38_下悬窗_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '厨房下悬窗' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g010",
+  "name": "庭院丛生参数化竹子",
+  "category": "景观庭院",
+  "row": 59,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\59_景观竹丛_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '庭院丛生参数化竹子' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g011",
+  "name": "庭院中式现代小凉亭",
+  "category": "景观庭院",
+  "row": 40,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\40_庭院凉亭_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '庭院中式现代小凉亭' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g012",
+  "name": "主卧智能中枢显示器",
+  "category": "智能中枢",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A smart home hub display screen for master bedroom, wall-mounted rectangular monitor with modern UI, white frame."
+ },
+ {
+  "out": "g013",
+  "name": "书房智能中枢显示器",
+  "category": "智能中枢",
+  "row": 21,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\21_学习环境中枢_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '书房智能中枢显示器' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g014",
+  "name": "智能书柜",
+  "category": "家具软装",
+  "row": 22,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\22_智能书柜_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能书柜' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g015",
+  "name": "多功能人体工学座椅",
+  "category": "家具软装",
+  "row": 20,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\20_人体工学椅_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '多功能人体工学座椅' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g016",
+  "name": "庭院假山流水池塘",
+  "category": "景观庭院",
+  "row": 66,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\66_假山流水景观_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '庭院假山流水池塘' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g017",
+  "name": "别墅家庭储能设备柜及能源设备区",
+  "category": "能源设备",
+  "row": 1,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '别墅家庭储能设备柜及能源设备区' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g018",
+  "name": "全景通风落地窗",
+  "category": "门窗幕墙",
+  "row": 34,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\34_全景通风落地窗_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '全景通风落地窗' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g019",
+  "name": "六合一环境传感器",
+  "category": "传感探测",
+  "row": 72,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\72_环境传感器_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '六合一环境传感器' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g020",
+  "name": "到顶厨房储物吊柜",
+  "category": "厨卫设备",
+  "row": 10,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\10_到顶储物吊柜_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '到顶厨房储物吊柜' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g021",
+  "name": "次卧小床纯家具版",
+  "category": "家具软装",
+  "row": 53,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\53_智能床_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '次卧小床纯家具版' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g022",
+  "name": "别墅庭院单车位光伏车库",
+  "category": "能源设备",
+  "row": 3,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '别墅庭院单车位光伏车库' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g023",
+  "name": "主卧头顶吸顶灯 V2",
+  "category": "照明灯具",
+  "row": 54,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\54_圆形吸顶灯_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '主卧头顶吸顶灯 V2' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g024",
+  "name": "公共卫生间智能中枢",
+  "category": "智能中枢",
+  "row": 37,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\37_卫浴智能中枢_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '公共卫生间智能中枢' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g025",
+  "name": "厨房安全中枢显示器",
+  "category": "智能中枢",
+  "row": 9,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '厨房安全中枢显示器' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g026",
+  "name": "厨房智能灯具系统",
+  "category": "照明灯具",
+  "row": 58,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\58_智能灯具系统_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '厨房智能灯具系统' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g027",
+  "name": "庭院参数化石拱桥",
+  "category": "景观庭院",
+  "row": 56,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\56_石拱桥_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '庭院参数化石拱桥' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g028",
+  "name": "双扇玻璃推拉门",
+  "category": "门窗幕墙",
+  "row": 36,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\36_玻璃推拉门_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '双扇玻璃推拉门' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g029",
+  "name": "双机嵌入式洗烘储物柜",
+  "category": "家具软装",
+  "row": 48,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\48_一体化收纳柜_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '双机嵌入式洗烘储物柜' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g030",
+  "name": "可变圆形六至八人餐桌",
+  "category": "家具软装",
+  "row": 42,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\42_可变圆形餐桌_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '可变圆形六至八人餐桌' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g031",
+  "name": "可调单双洞外墙",
+  "category": "门窗幕墙",
+  "row": 32,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\32_含洞墙体_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '可调单双洞外墙' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g032",
+  "name": "普通台式微波炉",
+  "category": "厨卫设备",
+  "row": 12,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\12_智能微波炉_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '普通台式微波炉' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g033",
+  "name": "阳台1660右固定玻璃折叠移门",
+  "category": "门窗幕墙",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A right-side fixed glass folding balcony door, modern aluminum frame, transparent glass panels."
+ },
+ {
+  "out": "g034",
+  "name": "阳台1300右固定玻璃折叠移门",
+  "category": "门窗幕墙",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A narrower right-side fixed glass folding balcony door, modern aluminum frame, transparent glass panels."
+ },
+ {
+  "out": "g035",
+  "name": "卧室固定加平开窗",
+  "category": "门窗幕墙",
+  "row": 31,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\31_固定加平开窗_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '卧室固定加平开窗' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g036",
+  "name": "别墅庭院大型规整观赏草丛",
+  "category": "景观庭院",
+  "row": 60,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\60_大型观赏草丛_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '别墅庭院大型规整观赏草丛' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g037",
+  "name": "客厅综合主中枢（集成阳台与餐厅）",
+  "category": "智能中枢",
+  "row": 9,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '客厅综合主中枢（集成阳台与餐厅）' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g038",
+  "name": "室内全自动麻将机",
+  "category": "娱乐休闲",
+  "row": 26,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\26_自动麻将桌_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '室内全自动麻将机' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g039",
+  "name": "家庭智能边缘中枢网关",
+  "category": "智能中枢",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A compact smart home edge gateway hub, small sleek white box with subtle LED indicator."
+ },
+ {
+  "out": "g040",
+  "name": "电视旁展示储物柜",
+  "category": "家具软装",
+  "row": 44,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\44_玻璃展示柜_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '电视旁展示储物柜' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g041",
+  "name": "庭院户外休闲小吧台",
+  "category": "家具软装",
+  "row": 65,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\65_户外一体式吧台_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '庭院户外休闲小吧台' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g042",
+  "name": "户外藤编L形转角沙发",
+  "category": "家具软装",
+  "row": 85,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\85_藤编组合沙发_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '户外藤编L形转角沙发' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g043",
+  "name": "户外藤编休闲椅",
+  "category": "家具软装",
+  "row": 80,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\80_藤编单人休闲椅_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '户外藤编休闲椅' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g044",
+  "name": "户外藤编单人椅",
+  "category": "家具软装",
+  "row": 80,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\80_藤编单人休闲椅_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '户外藤编单人椅' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g045",
+  "name": "户外藤编双人沙发",
+  "category": "家具软装",
+  "row": 82,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\82_藤编双人沙发_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '户外藤编双人沙发' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g046",
+  "name": "户外藤编小圆桌",
+  "category": "家具软装",
+  "row": 83,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\83_圆形休闲边几_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '户外藤编小圆桌' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g047",
+  "name": "户外藤编方茶几",
+  "category": "家具软装",
+  "row": 81,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\81_藤编方形茶几_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '户外藤编方茶几' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g048",
+  "name": "扫地机器人充电桩",
+  "category": "能源设备",
+  "row": 47,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\47_机器人充电站_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '扫地机器人充电桩' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g049",
+  "name": "书房头顶护眼吸顶灯",
+  "category": "照明灯具",
+  "row": 54,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\54_圆形吸顶灯_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '书房头顶护眼吸顶灯' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g050",
+  "name": "新中式院落式高端社区大门",
+  "category": "门窗幕墙",
+  "row": 39,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\39_别墅区大门_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '新中式院落式高端社区大门' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g051",
+  "name": "方块花坛（voxel 方块风格）",
+  "category": "景观庭院",
+  "row": 68,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\68_矩形景观花坛_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '方块花坛（voxel 方块风格）' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g052",
+  "name": "方块草坪灯（voxel 方块风格·智能）",
+  "category": "照明灯具",
+  "row": 61,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\61_方柱景观灯_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '方块草坪灯（voxel 方块风格·智能）' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g053",
+  "name": "L12_景观灌木球",
+  "category": "景观庭院",
+  "row": 67,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\67_球形灌木_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object 'L12_景观灌木球' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g054",
+  "name": "L13_景观花坛",
+  "category": "景观庭院",
+  "row": 68,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\68_矩形景观花坛_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object 'L13_景观花坛' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g055",
+  "name": "智能一体式工作站水槽",
+  "category": "厨卫设备",
+  "row": 18,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\18_智能多功能水槽_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能一体式工作站水槽' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g056",
+  "name": "智能一体式马桶",
+  "category": "厨卫设备",
+  "row": 5,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能一体式马桶' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g057",
+  "name": "智能阳台休闲躺椅",
+  "category": "家具软装",
+  "row": 25,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\25_多功能躺椅_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能阳台休闲躺椅' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g058",
+  "name": "别墅庭院智能充电桩",
+  "category": "能源设备",
+  "row": 2,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '别墅庭院智能充电桩' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g059",
+  "name": "智能光电感烟探测器",
+  "category": "传感探测",
+  "row": 75,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\75_烟雾传感器_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能光电感烟探测器' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g060",
+  "name": "厨房智能冰箱",
+  "category": "厨卫设备",
+  "row": 8,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '厨房智能冰箱' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g061",
+  "name": "智能升降书桌",
+  "category": "家具软装",
+  "row": 24,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\24_智能升降书桌_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能升降书桌' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g062",
+  "name": "智能升降厨房岛台 V3.2",
+  "category": "厨卫设备",
+  "row": 14,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\14_智能升降岛台_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能升降厨房岛台 V3.2' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g063",
+  "name": "智能升降晾衣系统",
+  "category": "厨卫设备",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. An electric lifting clothes drying rack, ceiling-mounted metal rack with hangers, modern white finish."
+ },
+ {
+  "out": "g064",
+  "name": "智能单人休闲沙发",
+  "category": "家具软装",
+  "row": 87,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\87_智能沙发_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能单人休闲沙发' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g065",
+  "name": "轻奢智能双开入户门 V4",
+  "category": "门窗幕墙",
+  "row": 89,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\89_智能双开入户门_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '轻奢智能双开入户门 V4' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g066",
+  "name": "智能双抽屉全嵌式洗碗机",
+  "category": "厨卫设备",
+  "row": 15,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\15_智能洗碗机_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能双抽屉全嵌式洗碗机' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g067",
+  "name": "智能双灶燃气灶",
+  "category": "厨卫设备",
+  "row": 17,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\17_智能灶具_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能双灶燃气灶' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g068",
+  "name": "厨房智能可燃气体泄漏探测器",
+  "category": "传感探测",
+  "row": 76,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\76_燃气传感器_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '厨房智能可燃气体泄漏探测器' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g069",
+  "name": "客厅智能吊灯",
+  "category": "照明灯具",
+  "row": 45,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\45_三环吊灯_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '客厅智能吊灯' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g070",
+  "name": "智能地漏",
+  "category": "厨卫设备",
+  "row": 6,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能地漏' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g071",
+  "name": "智能壁挂空调",
+  "category": "环境控制",
+  "row": 23,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\23_智能壁挂空调_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能壁挂空调' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g072",
+  "name": "智能岛式油烟机",
+  "category": "传感探测",
+  "row": 13,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\13_智能吸油烟机_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能岛式油烟机' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g073",
+  "name": "主卧智能床整体式",
+  "category": "家具软装",
+  "row": 53,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\53_智能床_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '主卧智能床整体式' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g074",
+  "name": "智能淋浴",
+  "category": "厨卫设备",
+  "row": 7,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能淋浴' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g075",
+  "name": "智能扫地机器人",
+  "category": "厨卫设备",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A round robotic vacuum cleaner, modern white and black body, lidar sensor on top, home appliance."
+ },
+ {
+  "out": "g076",
+  "name": "智能暖风排风系统",
+  "category": "环境控制",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A wall-mounted bathroom ventilation fan with warm-air function, circular grille, modern white finish."
+ },
+ {
+  "out": "g077",
+  "name": "智能梳妆桌",
+  "category": "家具软装",
+  "row": 88,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\88_智能梳妆桌_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能梳妆桌' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g078",
+  "name": "智能沙发",
+  "category": "家具软装",
+  "row": 87,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\87_智能沙发_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能沙发' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g079",
+  "name": "智能洗手台",
+  "category": "厨卫设备",
+  "row": 4,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能洗手台' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g080",
+  "name": "智能洗衣机",
+  "category": "厨卫设备",
+  "row": 27,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\27_智能洗衣机_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能洗衣机' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g081",
+  "name": "智能热泵烘干机",
+  "category": "能源设备",
+  "row": 28,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\28_智能热泵烘干机_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能热泵烘干机' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g082",
+  "name": "智能窗帘",
+  "category": "门窗幕墙",
+  "row": 86,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\86_智能窗帘_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能窗帘' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g083",
+  "name": "智能茶几",
+  "category": "家具软装",
+  "row": 52,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\52_智能升降茶几_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能茶几' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g084",
+  "name": "L15_智能草坪灯",
+  "category": "照明灯具",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A modern smart lawn bollard light, short cylindrical lamp in green lawn, minimalist design."
+ },
+ {
+  "out": "g085",
+  "name": "主卧智能衣柜",
+  "category": "家具软装",
+  "row": 55,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\55_智能衣柜_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '主卧智能衣柜' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g086",
+  "name": "智能语音交互音箱",
+  "category": "娱乐休闲",
+  "row": 90,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\90_桌面智能音箱_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能语音交互音箱' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g087",
+  "name": "智能饮水机",
+  "category": "厨卫设备",
+  "row": 91,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\91_智能饮水机_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '智能饮水机' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g088",
+  "name": "卧室900木质平开门",
+  "category": "门窗幕墙",
+  "row": 33,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\33_木质平开门_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '卧室900木质平开门' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g089",
+  "name": "阳台标准分块夹层玻璃墙",
+  "category": "门窗幕墙",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A standard modular laminated glass wall panel for balcony, aluminum frame, safety glass."
+ },
+ {
+  "out": "g090",
+  "name": "毫米波人体存在传感器",
+  "category": "传感探测",
+  "row": 64,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\64_人体存在传感器_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '毫米波人体存在传感器' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g091",
+  "name": "水浸传感器",
+  "category": "传感探测",
+  "row": 73,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\73_漏水传感器_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '水浸传感器' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g092",
+  "name": "玄关2400正方形地毯",
+  "category": "家具软装",
+  "row": 49,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\49_方形地毯_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '玄关2400正方形地毯' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g093",
+  "name": "环形厨房储物岛台",
+  "category": "厨卫设备",
+  "row": 11,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\11_环形岛台储物柜_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '环形厨房储物岛台' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g094",
+  "name": "现代别墅庭院花坛 V2（灌木落地修复）",
+  "category": "景观庭院",
+  "row": 68,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\68_矩形景观花坛_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '现代别墅庭院花坛 V2（灌木落地修复）' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g095",
+  "name": "现代轻奢别墅区社区大门",
+  "category": "门窗幕墙",
+  "row": 39,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\39_别墅区大门_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '现代轻奢别墅区社区大门' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g096",
+  "name": "电视柜（含电视机+音响）",
+  "category": "家具软装",
+  "row": 41,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\41_电视柜_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '电视柜（含电视机+音响）' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g097",
+  "name": "庭院矩形抬高式菜畦",
+  "category": "景观庭院",
+  "row": 71,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\71_抬高式菜畦_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '庭院矩形抬高式菜畦' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g098",
+  "name": "智能空气净化器",
+  "category": "环境控制",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. 智能空气净化器"
+ },
+ {
+  "out": "g099",
+  "name": "客厅立式空调稳定版",
+  "category": "环境控制",
+  "row": 43,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\43_立式空调_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '客厅立式空调稳定版' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g100",
+  "name": "别墅庭院自然伞形景观树",
+  "category": "景观庭院",
+  "row": 79,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\79_自然冠景观乔木_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '别墅庭院自然伞形景观树' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g101",
+  "name": "客厅窗边自然光传感器",
+  "category": "传感探测",
+  "row": 77,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\77_光照传感器_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '客厅窗边自然光传感器' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g102",
+  "name": "别墅庭院自然景观树 V3（树叶显示修复）",
+  "category": "景观庭院",
+  "row": 78,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\78_团簇冠景观乔木_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '别墅庭院自然景观树 V3（树叶显示修复）' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g103",
+  "name": "艺术高背软包餐椅",
+  "category": "家具软装",
+  "row": 50,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\50_高背软包餐椅_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '艺术高背软包餐椅' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g104",
+  "name": "草坪_简洁",
+  "category": "景观庭院",
+  "row": 57,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\57_草坪_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '草坪_简洁' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g105",
+  "name": "客厅装饰落地灯A（现代简约直杆款）",
+  "category": "照明灯具",
+  "row": 46,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\46_落地灯_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '客厅装饰落地灯A（现代简约直杆款）' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g106",
+  "name": "别墅庭院规整观赏草丛 V2",
+  "category": "景观庭院",
+  "row": 60,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\60_大型观赏草丛_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '别墅庭院规整观赏草丛 V2' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g107",
+  "name": "通用边柜",
+  "category": "家具软装",
+  "row": 48,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\48_一体化收纳柜_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '通用边柜' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g108",
+  "name": "4至6人简约长方形餐桌",
+  "category": "家具软装",
+  "row": 51,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\51_长方形餐桌_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '4至6人简约长方形餐桌' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g109",
+  "name": "卫生间头顶防潮吸顶灯",
+  "category": "照明灯具",
+  "row": 54,
+  "src": "D:\\ASUS\\Downloads\\智居慧脑_PPT图片素材包\\03_构件图片_全量\\54_圆形吸顶灯_模型图.png",
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. Refine this 3D product rendering of the object '卫生间头顶防潮吸顶灯' into a clean studio product photograph; preserve the exact object, shape and details shown."
+ },
+ {
+  "out": "g110",
+  "name": "卫生间800防潮平开门",
+  "category": "门窗幕墙",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. An 800mm width moisture-proof flush door for bathroom, modern panel, light wood/white finish."
+ },
+ {
+  "out": "g111",
+  "name": "玄关智能鞋柜换鞋凳一体柜",
+  "category": "家具软装",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. An entrance hall smart shoe cabinet with integrated bench, modern wood and white finish."
+ },
+ {
+  "out": "g112",
+  "name": "餐厅一体式餐边柜",
+  "category": "家具软装",
+  "row": null,
+  "src": null,
+  "prompt": "Clean high-end product photography, soft studio lighting, seamless light grey gradient background, subtle floor reflection, photorealistic, 8k, minimal, no text, no watermark, centered product shot. A modern dining room sideboard cabinet, buffet with storage, wood and white finish."
+ }
+]

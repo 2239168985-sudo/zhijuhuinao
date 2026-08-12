@@ -1,0 +1,898 @@
+[
+ {
+  "name": "C03-N2_智能香薰氛围灯",
+  "category": "照明灯具",
+  "code": "LIT-01",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "小熊玩偶",
+  "category": "装饰摆件",
+  "code": "C03-1",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "茶杯",
+  "category": "装饰摆件",
+  "code": "C04-1",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "小绿植",
+  "category": "装饰摆件",
+  "code": "C05-1",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "游戏机",
+  "category": "娱乐休闲",
+  "code": "C05-2",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "C03-N3_现代坐姿猫咪玩偶",
+  "category": "装饰摆件",
+  "code": "C05-4",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "企鹅玩偶",
+  "category": "装饰摆件",
+  "code": "C05-5",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "现代别墅三跑楼梯",
+  "category": "楼梯结构",
+  "code": "STR-01",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c35_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c35_p.webp",
+  "method": "cNN#35 (model ok)"
+ },
+ {
+  "name": "厨房下悬窗",
+  "category": "门窗幕墙",
+  "code": "DOF-01",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c38_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c38_p.webp",
+  "method": "cNN#38 (model ok)"
+ },
+ {
+  "name": "庭院丛生参数化竹子",
+  "category": "景观庭院",
+  "code": "LND-01",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "庭院中式现代小凉亭",
+  "category": "景观庭院",
+  "code": "LND-02",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c40_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c40_p.webp",
+  "method": "cNN#40 (model ok)"
+ },
+ {
+  "name": "主卧智能中枢显示器",
+  "category": "智能中枢",
+  "code": "C07",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "书房智能中枢显示器",
+  "category": "智能中枢",
+  "code": "C04",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c21_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c21_p.webp",
+  "method": "cNN#21 (model ok)"
+ },
+ {
+  "name": "智能书柜",
+  "category": "家具软装",
+  "code": "C30",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c22_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c22_p.webp",
+  "method": "cNN#22 (model ok)"
+ },
+ {
+  "name": "多功能人体工学座椅",
+  "category": "家具软装",
+  "code": "FUR-01",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c20_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c20_p.webp",
+  "method": "cNN#20 (model ok)"
+ },
+ {
+  "name": "庭院假山流水池塘",
+  "category": "景观庭院",
+  "code": "LND-03",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c66_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c66_p.webp",
+  "method": "cNN#66 (model ok)"
+ },
+ {
+  "name": "别墅家庭储能设备柜及能源设备区",
+  "category": "能源设备",
+  "code": "E03",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "全景通风落地窗",
+  "category": "门窗幕墙",
+  "code": "DOF-02",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c34_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c34_p.webp",
+  "method": "cNN#34 (model ok)"
+ },
+ {
+  "name": "六合一环境传感器",
+  "category": "传感探测",
+  "code": "SEN-01",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c72_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c72_p.webp",
+  "method": "cNN#72 (model ok)"
+ },
+ {
+  "name": "到顶厨房储物吊柜",
+  "category": "厨卫设备",
+  "code": "KIT-01",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c10_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c10_p.webp",
+  "method": "cNN#10 (model ok)"
+ },
+ {
+  "name": "次卧小床纯家具版",
+  "category": "家具软装",
+  "code": "B02",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "别墅庭院单车位光伏车库",
+  "category": "能源设备",
+  "code": "E01",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c03_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c03_p.webp",
+  "method": "cNN#03 (model ok)"
+ },
+ {
+  "name": "主卧头顶吸顶灯 V2",
+  "category": "照明灯具",
+  "code": "C31",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "公共卫生间智能中枢",
+  "category": "智能中枢",
+  "code": "C13",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c37_m.webp",
+  "src_param": null,
+  "method": "cNN#37 (model ok)"
+ },
+ {
+  "name": "厨房安全中枢显示器",
+  "category": "智能中枢",
+  "code": "C10",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c09_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c09_p.webp",
+  "method": "cNN#09 (model ok)"
+ },
+ {
+  "name": "厨房智能灯具系统",
+  "category": "照明灯具",
+  "code": "C32",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c58_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c58_p.webp",
+  "method": "cNN#58 (model ok)"
+ },
+ {
+  "name": "庭院参数化石拱桥",
+  "category": "景观庭院",
+  "code": "LND-04",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c56_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c56_p.webp",
+  "method": "cNN#56 (model ok)"
+ },
+ {
+  "name": "双扇玻璃推拉门",
+  "category": "门窗幕墙",
+  "code": "DOF-03",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c36_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c36_p.webp",
+  "method": "cNN#36 (model ok)"
+ },
+ {
+  "name": "双机嵌入式洗烘储物柜",
+  "category": "家具软装",
+  "code": "FUR-02",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "可变圆形六至八人餐桌",
+  "category": "家具软装",
+  "code": "FUR-03",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c42_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c42_p.webp",
+  "method": "cNN#42 (model ok)"
+ },
+ {
+  "name": "可调单双洞外墙",
+  "category": "门窗幕墙",
+  "code": "DOF-04",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "普通台式微波炉",
+  "category": "厨卫设备",
+  "code": "KIT-02",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c12_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c12_p.webp",
+  "method": "cNN#12 (model ok)"
+ },
+ {
+  "name": "阳台1660右固定玻璃折叠移门",
+  "category": "门窗幕墙",
+  "code": "DOF-05",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "阳台1300右固定玻璃折叠移门",
+  "category": "门窗幕墙",
+  "code": "DOF-06",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "卧室固定加平开窗",
+  "category": "门窗幕墙",
+  "code": "DOF-07",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c31_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c31_p.webp",
+  "method": "cNN#31 (model ok)"
+ },
+ {
+  "name": "别墅庭院大型规整观赏草丛",
+  "category": "景观庭院",
+  "code": "L04",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c60_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c60_p.webp",
+  "method": "cNN#60 (model ok)"
+ },
+ {
+  "name": "客厅综合主中枢（集成阳台与餐厅）",
+  "category": "智能中枢",
+  "code": "C03-HUB",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "室内全自动麻将机",
+  "category": "娱乐休闲",
+  "code": "ENT-01",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c26_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c26_p.webp",
+  "method": "cNN#26 (model ok)"
+ },
+ {
+  "name": "家庭智能边缘中枢网关",
+  "category": "智能中枢",
+  "code": "HUB-01",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "电视旁展示储物柜",
+  "category": "家具软装",
+  "code": "C06",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c41_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c41_p.webp",
+  "method": "cNN#41 (model ok)"
+ },
+ {
+  "name": "庭院户外休闲小吧台",
+  "category": "家具软装",
+  "code": "FUR-04",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c65_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c65_p.webp",
+  "method": "cNN#65 (model ok)"
+ },
+ {
+  "name": "户外藤编L形转角沙发",
+  "category": "家具软装",
+  "code": "FUR-05",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c85_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c85_p.webp",
+  "method": "cNN#85 (model ok)"
+ },
+ {
+  "name": "户外藤编休闲椅",
+  "category": "家具软装",
+  "code": "FUR-06",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c80_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c80_p.webp",
+  "method": "cNN#80 (model ok)"
+ },
+ {
+  "name": "户外藤编单人椅",
+  "category": "家具软装",
+  "code": "FUR-07",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c80_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c80_p.webp",
+  "method": "cNN#80 (model ok)"
+ },
+ {
+  "name": "户外藤编双人沙发",
+  "category": "家具软装",
+  "code": "FUR-08",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c82_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c82_p.webp",
+  "method": "cNN#82 (model ok)"
+ },
+ {
+  "name": "户外藤编小圆桌",
+  "category": "家具软装",
+  "code": "FUR-09",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "户外藤编方茶几",
+  "category": "家具软装",
+  "code": "FUR-10",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c81_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c81_p.webp",
+  "method": "cNN#81 (model ok)"
+ },
+ {
+  "name": "扫地机器人充电桩",
+  "category": "能源设备",
+  "code": "NRG-01",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c47_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c47_p.webp",
+  "method": "cNN#47 (model ok)"
+ },
+ {
+  "name": "书房头顶护眼吸顶灯",
+  "category": "照明灯具",
+  "code": "C33",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "新中式院落式高端社区大门",
+  "category": "门窗幕墙",
+  "code": "DOF-08",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "方块花坛（voxel 方块风格）",
+  "category": "景观庭院",
+  "code": "B04",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "方块草坪灯（voxel 方块风格·智能）",
+  "category": "照明灯具",
+  "code": "B06",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "L12_景观灌木球",
+  "category": "景观庭院",
+  "code": "L12",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "L13_景观花坛",
+  "category": "景观庭院",
+  "code": "L13",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "智能一体式工作站水槽",
+  "category": "厨卫设备",
+  "code": "KIT-03",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c18_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c18_p.webp",
+  "method": "cNN#18 (model ok)"
+ },
+ {
+  "name": "智能一体式马桶",
+  "category": "厨卫设备",
+  "code": "KIT-04",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c05_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c05_p.webp",
+  "method": "cNN#05 (model ok)"
+ },
+ {
+  "name": "智能阳台休闲躺椅",
+  "category": "家具软装",
+  "code": "FUR-11",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c25_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c25_p.webp",
+  "method": "cNN#25 (model ok)"
+ },
+ {
+  "name": "别墅庭院智能充电桩",
+  "category": "能源设备",
+  "code": "E02",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c02_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c02_p.webp",
+  "method": "cNN#02 (model ok)"
+ },
+ {
+  "name": "智能光电感烟探测器",
+  "category": "传感探测",
+  "code": "SEN-02",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "厨房智能冰箱",
+  "category": "厨卫设备",
+  "code": "KIT-05",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c08_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c08_p.webp",
+  "method": "cNN#08 (model ok)"
+ },
+ {
+  "name": "智能升降书桌",
+  "category": "家具软装",
+  "code": "FUR-12",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c24_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c24_p.webp",
+  "method": "cNN#24 (model ok)"
+ },
+ {
+  "name": "智能升降厨房岛台 V3.2",
+  "category": "厨卫设备",
+  "code": "K01",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "智能升降晾衣系统",
+  "category": "厨卫设备",
+  "code": "B01",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "智能单人休闲沙发",
+  "category": "家具软装",
+  "code": "FUR-13",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c87_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c87_p.webp",
+  "method": "cNN#87 (model ok)"
+ },
+ {
+  "name": "轻奢智能双开入户门 V4",
+  "category": "门窗幕墙",
+  "code": "Q01",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "智能双抽屉全嵌式洗碗机",
+  "category": "厨卫设备",
+  "code": "KIT-06",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c15_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c15_p.webp",
+  "method": "cNN#15 (model ok)"
+ },
+ {
+  "name": "智能双灶燃气灶",
+  "category": "厨卫设备",
+  "code": "KIT-07",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c17_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c17_p.webp",
+  "method": "cNN#17 (model ok)"
+ },
+ {
+  "name": "厨房智能可燃气体泄漏探测器",
+  "category": "传感探测",
+  "code": "SEN-03",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "客厅智能吊灯",
+  "category": "照明灯具",
+  "code": "C35",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c58_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c58_p.webp",
+  "method": "cNN#58 (model ok)"
+ },
+ {
+  "name": "智能地漏",
+  "category": "厨卫设备",
+  "code": "KIT-08",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c06_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c06_p.webp",
+  "method": "cNN#06 (model ok)"
+ },
+ {
+  "name": "智能壁挂空调",
+  "category": "环境控制",
+  "code": "ENV-01",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c23_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c23_p.webp",
+  "method": "cNN#23 (model ok)"
+ },
+ {
+  "name": "智能岛式油烟机",
+  "category": "传感探测",
+  "code": "SEN-04",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c13_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c13_p.webp",
+  "method": "cNN#13 (model ok)"
+ },
+ {
+  "name": "主卧智能床整体式",
+  "category": "家具软装",
+  "code": "FUR-14",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c53_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c53_p.webp",
+  "method": "cNN#53 (model ok)"
+ },
+ {
+  "name": "智能淋浴",
+  "category": "厨卫设备",
+  "code": "KIT-09",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c07_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c07_p.webp",
+  "method": "cNN#07 (model ok)"
+ },
+ {
+  "name": "智能扫地机器人",
+  "category": "厨卫设备",
+  "code": "KIT-10",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c47_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c47_p.webp",
+  "method": "cNN#47 (model ok)"
+ },
+ {
+  "name": "智能暖风排风系统",
+  "category": "环境控制",
+  "code": "ENV-02",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "智能梳妆桌",
+  "category": "家具软装",
+  "code": "FUR-15",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c88_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c88_p.webp",
+  "method": "cNN#88 (model ok)"
+ },
+ {
+  "name": "智能沙发",
+  "category": "家具软装",
+  "code": "FUR-16",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c87_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c87_p.webp",
+  "method": "cNN#87 (model ok)"
+ },
+ {
+  "name": "智能洗手台",
+  "category": "厨卫设备",
+  "code": "KIT-11",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c04_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c04_p.webp",
+  "method": "cNN#04 (model ok)"
+ },
+ {
+  "name": "智能洗衣机",
+  "category": "厨卫设备",
+  "code": "KIT-12",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c27_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c27_p.webp",
+  "method": "cNN#27 (model ok)"
+ },
+ {
+  "name": "智能热泵烘干机",
+  "category": "能源设备",
+  "code": "NRG-02",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c28_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c28_p.webp",
+  "method": "cNN#28 (model ok)"
+ },
+ {
+  "name": "智能窗帘",
+  "category": "门窗幕墙",
+  "code": "DOF-09",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c86_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c86_p.webp",
+  "method": "cNN#86 (model ok)"
+ },
+ {
+  "name": "智能茶几",
+  "category": "家具软装",
+  "code": "FUR-17",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c52_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c52_p.webp",
+  "method": "cNN#52 (model ok)"
+ },
+ {
+  "name": "L15_智能草坪灯",
+  "category": "照明灯具",
+  "code": "L15",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "主卧智能衣柜",
+  "category": "家具软装",
+  "code": "B01",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c55_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c55_p.webp",
+  "method": "cNN#55 (model ok)"
+ },
+ {
+  "name": "智能语音交互音箱",
+  "category": "娱乐休闲",
+  "code": "ENT-02",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c90_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c90_p.webp",
+  "method": "cNN#90 (model ok)"
+ },
+ {
+  "name": "智能饮水机",
+  "category": "厨卫设备",
+  "code": "KIT-13",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c91_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c91_p.webp",
+  "method": "cNN#91 (model ok)"
+ },
+ {
+  "name": "卧室900木质平开门",
+  "category": "门窗幕墙",
+  "code": "DOF-10",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c33_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c33_p.webp",
+  "method": "cNN#33 (model ok)"
+ },
+ {
+  "name": "阳台标准分块夹层玻璃墙",
+  "category": "门窗幕墙",
+  "code": "DOF-11",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "毫米波人体存在传感器",
+  "category": "传感探测",
+  "code": "SEN-05",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c64_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c64_p.webp",
+  "method": "cNN#64 (model ok)"
+ },
+ {
+  "name": "水浸传感器",
+  "category": "传感探测",
+  "code": "SEN-06",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c73_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c73_p.webp",
+  "method": "cNN#73 (model ok)"
+ },
+ {
+  "name": "玄关2400正方形地毯",
+  "category": "家具软装",
+  "code": "M01",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c49_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c49_p.webp",
+  "method": "cNN#49 (model ok)"
+ },
+ {
+  "name": "环形厨房储物岛台",
+  "category": "厨卫设备",
+  "code": "K04",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c11_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c11_p.webp",
+  "method": "cNN#11 (model ok)"
+ },
+ {
+  "name": "现代别墅庭院花坛 V2（灌木落地修复）",
+  "category": "景观庭院",
+  "code": "L02",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "现代轻奢别墅区社区大门",
+  "category": "门窗幕墙",
+  "code": "DOF-12",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c39_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c39_p.webp",
+  "method": "cNN#39 (model ok)"
+ },
+ {
+  "name": "电视柜（含电视机+音响）",
+  "category": "家具软装",
+  "code": "C05",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "庭院矩形抬高式菜畦",
+  "category": "景观庭院",
+  "code": "LND-05",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c71_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c71_p.webp",
+  "method": "cNN#71 (model ok)"
+ },
+ {
+  "name": "智能空气净化器",
+  "category": "环境控制",
+  "code": "ENV-03",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "客厅立式空调稳定版",
+  "category": "环境控制",
+  "code": "ENV-04",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c43_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c43_p.webp",
+  "method": "cNN#43 (model ok)"
+ },
+ {
+  "name": "别墅庭院自然伞形景观树",
+  "category": "景观庭院",
+  "code": "LND-06",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "客厅窗边自然光传感器",
+  "category": "传感探测",
+  "code": "SEN-07",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c77_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c77_p.webp",
+  "method": "cNN#77 (model ok)"
+ },
+ {
+  "name": "别墅庭院自然景观树 V3（树叶显示修复）",
+  "category": "景观庭院",
+  "code": "L01",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "艺术高背软包餐椅",
+  "category": "家具软装",
+  "code": "FUR-18",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c50_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c50_p.webp",
+  "method": "cNN#50 (model ok)"
+ },
+ {
+  "name": "草坪_简洁",
+  "category": "景观庭院",
+  "code": "LND-07",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "客厅装饰落地灯A（现代简约直杆款）",
+  "category": "照明灯具",
+  "code": "C_Living_FloorLamp_A",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "别墅庭院规整观赏草丛 V2",
+  "category": "景观庭院",
+  "code": "L03",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "通用边柜",
+  "category": "家具软装",
+  "code": "C06",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "4至6人简约长方形餐桌",
+  "category": "家具软装",
+  "code": "C10",
+  "src_model": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c51_m.webp",
+  "src_param": "D:\\WorkBuddy\\zhijuhuinao\\public\\components\\c51_p.webp",
+  "method": "cNN#51 (model ok)"
+ },
+ {
+  "name": "卫生间头顶防潮吸顶灯",
+  "category": "照明灯具",
+  "code": "C32",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "卫生间800防潮平开门",
+  "category": "门窗幕墙",
+  "code": "DOF-13",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "玄关智能鞋柜换鞋凳一体柜",
+  "category": "家具软装",
+  "code": "FUR-19",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ },
+ {
+  "name": "餐厅一体式餐边柜",
+  "category": "家具软装",
+  "code": "FUR-20",
+  "src_model": null,
+  "src_param": null,
+  "method": null
+ }
+]
